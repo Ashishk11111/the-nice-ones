@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T14:46:41.268134+00:00",
+ "updated": "2026-11-01T14:52:41.059675+00:00",
  "companies": [
   {
    "name": "databricks",
@@ -19,7 +19,7 @@
    "name": "cloudflare",
    "source": "gh",
    "status": "working",
-   "listed": 464,
+   "listed": 463,
    "fresh": 0
   },
   {
@@ -76,7 +76,7 @@
    "source": "gh",
    "status": "working",
    "listed": 254,
-   "fresh": 2
+   "fresh": 0
   },
   {
    "name": "fivetran",
@@ -146,7 +146,7 @@
    "source": "wd",
    "status": "working",
    "listed": 144,
-   "fresh": 6
+   "fresh": 3
   },
   {
    "name": "NVIDIA",
@@ -160,7 +160,7 @@
    "source": "wd",
    "status": "working",
    "listed": 141,
-   "fresh": 4
+   "fresh": 1
   },
   {
    "name": "Broadcom",
@@ -258,7 +258,7 @@
    "source": "gh",
    "status": "working",
    "listed": 338,
-   "fresh": 1
+   "fresh": 0
   },
   {
    "name": "Robinhood",
@@ -349,7 +349,7 @@
    "source": "gh",
    "status": "working",
    "listed": 363,
-   "fresh": 2
+   "fresh": 1
   },
   {
    "name": "PagerDuty",
@@ -405,7 +405,7 @@
    "source": "gh",
    "status": "working",
    "listed": 360,
-   "fresh": 8
+   "fresh": 17
   },
   {
    "name": "Confluent",
@@ -510,20 +510,6 @@
    "source": "amazon",
    "status": "working",
    "listed": 100,
-   "fresh": 0
-  },
-  {
-   "name": "BrowserStack",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Sprinklr",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
    "fresh": 0
   }
  ]
