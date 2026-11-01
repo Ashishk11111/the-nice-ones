@@ -1,0 +1,796 @@
+{
+ "updated": "2026-11-01T13:40:10.590771+00:00",
+ "companies": [
+  {
+   "name": "databricks",
+   "source": "gh",
+   "status": "working",
+   "listed": 904,
+   "fresh": 0
+  },
+  {
+   "name": "mongodb",
+   "source": "gh",
+   "status": "working",
+   "listed": 366,
+   "fresh": 0
+  },
+  {
+   "name": "cloudflare",
+   "source": "gh",
+   "status": "working",
+   "listed": 464,
+   "fresh": 0
+  },
+  {
+   "name": "twilio",
+   "source": "gh",
+   "status": "working",
+   "listed": 132,
+   "fresh": 0
+  },
+  {
+   "name": "elastic",
+   "source": "gh",
+   "status": "working",
+   "listed": 407,
+   "fresh": 0
+  },
+  {
+   "name": "okta",
+   "source": "gh",
+   "status": "working",
+   "listed": 386,
+   "fresh": 0
+  },
+  {
+   "name": "rubrik",
+   "source": "gh",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "groww",
+   "source": "gh",
+   "status": "working",
+   "listed": 9,
+   "fresh": 0
+  },
+  {
+   "name": "stripe",
+   "source": "gh",
+   "status": "working",
+   "listed": 745,
+   "fresh": 6
+  },
+  {
+   "name": "airbnb",
+   "source": "gh",
+   "status": "working",
+   "listed": 202,
+   "fresh": 0
+  },
+  {
+   "name": "coinbase",
+   "source": "gh",
+   "status": "working",
+   "listed": 254,
+   "fresh": 2
+  },
+  {
+   "name": "fivetran",
+   "source": "gh",
+   "status": "working",
+   "listed": 164,
+   "fresh": 0
+  },
+  {
+   "name": "scaleai",
+   "source": "gh",
+   "status": "working",
+   "listed": 170,
+   "fresh": 0
+  },
+  {
+   "name": "razorpaysoftwareprivatelimited",
+   "source": "gh",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "cred",
+   "source": "lever",
+   "status": "working",
+   "listed": 14,
+   "fresh": 0
+  },
+  {
+   "name": "meesho",
+   "source": "lever",
+   "status": "working",
+   "listed": 49,
+   "fresh": 0
+  },
+  {
+   "name": "freshworks",
+   "source": "lever",
+   "status": "no jobs",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "atlan",
+   "source": "ashby",
+   "status": "working",
+   "listed": 7,
+   "fresh": 0
+  },
+  {
+   "name": "sarvam",
+   "source": "ashby",
+   "status": "working",
+   "listed": 46,
+   "fresh": 0
+  },
+  {
+   "name": "Adobe",
+   "source": "wd",
+   "status": "working",
+   "listed": 109,
+   "fresh": 0
+  },
+  {
+   "name": "Salesforce",
+   "source": "wd",
+   "status": "working",
+   "listed": 144,
+   "fresh": 6
+  },
+  {
+   "name": "NVIDIA",
+   "source": "wd",
+   "status": "working",
+   "listed": 168,
+   "fresh": 0
+  },
+  {
+   "name": "Mastercard",
+   "source": "wd",
+   "status": "working",
+   "listed": 141,
+   "fresh": 4
+  },
+  {
+   "name": "Broadcom",
+   "source": "wd",
+   "status": "working",
+   "listed": 5,
+   "fresh": 0
+  },
+  {
+   "name": "Autodesk",
+   "source": "wd",
+   "status": "working",
+   "listed": 3,
+   "fresh": 0
+  },
+  {
+   "name": "grammarly",
+   "source": "gh",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Browserstack",
+   "source": "wd",
+   "status": "working",
+   "listed": 114,
+   "fresh": 0
+  },
+  {
+   "name": "Sprinklr",
+   "source": "wd",
+   "status": "working",
+   "listed": 66,
+   "fresh": 0
+  },
+  {
+   "name": "Datadog",
+   "source": "gh",
+   "status": "working",
+   "listed": 397,
+   "fresh": 0
+  },
+  {
+   "name": "GitLab",
+   "source": "gh",
+   "status": "working",
+   "listed": 238,
+   "fresh": 0
+  },
+  {
+   "name": "Pinterest",
+   "source": "gh",
+   "status": "working",
+   "listed": 170,
+   "fresh": 0
+  },
+  {
+   "name": "Reddit",
+   "source": "gh",
+   "status": "working",
+   "listed": 163,
+   "fresh": 0
+  },
+  {
+   "name": "Discord",
+   "source": "gh",
+   "status": "working",
+   "listed": 41,
+   "fresh": 0
+  },
+  {
+   "name": "Figma",
+   "source": "gh",
+   "status": "working",
+   "listed": 140,
+   "fresh": 0
+  },
+  {
+   "name": "Lyft",
+   "source": "gh",
+   "status": "working",
+   "listed": 170,
+   "fresh": 0
+  },
+  {
+   "name": "Dropbox",
+   "source": "gh",
+   "status": "working",
+   "listed": 24,
+   "fresh": 0
+  },
+  {
+   "name": "Asana",
+   "source": "gh",
+   "status": "working",
+   "listed": 110,
+   "fresh": 0
+  },
+  {
+   "name": "Samsara",
+   "source": "gh",
+   "status": "working",
+   "listed": 338,
+   "fresh": 1
+  },
+  {
+   "name": "Robinhood",
+   "source": "gh",
+   "status": "working",
+   "listed": 160,
+   "fresh": 0
+  },
+  {
+   "name": "Brex",
+   "source": "gh",
+   "status": "working",
+   "listed": 263,
+   "fresh": 0
+  },
+  {
+   "name": "Gusto",
+   "source": "gh",
+   "status": "working",
+   "listed": 84,
+   "fresh": 0
+  },
+  {
+   "name": "Vercel",
+   "source": "gh",
+   "status": "working",
+   "listed": 91,
+   "fresh": 0
+  },
+  {
+   "name": "InMobi",
+   "source": "gh",
+   "status": "working",
+   "listed": 80,
+   "fresh": 0
+  },
+  {
+   "name": "Anthropic",
+   "source": "gh",
+   "status": "working",
+   "listed": 675,
+   "fresh": 0
+  },
+  {
+   "name": "OpenAI",
+   "source": "ashby",
+   "status": "working",
+   "listed": 810,
+   "fresh": 0
+  },
+  {
+   "name": "Perplexity",
+   "source": "ashby",
+   "status": "working",
+   "listed": 138,
+   "fresh": 0
+  },
+  {
+   "name": "Ramp",
+   "source": "gh",
+   "status": "working",
+   "listed": 1,
+   "fresh": 0
+  },
+  {
+   "name": "Plaid",
+   "source": "ashby",
+   "status": "working",
+   "listed": 132,
+   "fresh": 0
+  },
+  {
+   "name": "Palantir",
+   "source": "lever",
+   "status": "working",
+   "listed": 301,
+   "fresh": 0
+  },
+  {
+   "name": "Snowflake",
+   "source": "ashby",
+   "status": "working",
+   "listed": 366,
+   "fresh": 0
+  },
+  {
+   "name": "Zscaler",
+   "source": "gh",
+   "status": "working",
+   "listed": 363,
+   "fresh": 2
+  },
+  {
+   "name": "PagerDuty",
+   "source": "gh",
+   "status": "working",
+   "listed": 47,
+   "fresh": 0
+  },
+  {
+   "name": "New Relic",
+   "source": "gh",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Netskope",
+   "source": "gh",
+   "status": "working",
+   "listed": 121,
+   "fresh": 0
+  },
+  {
+   "name": "Navi",
+   "source": "ashby",
+   "status": "working",
+   "listed": 2,
+   "fresh": 0
+  },
+  {
+   "name": "Slice",
+   "source": "gh",
+   "status": "working",
+   "listed": 23,
+   "fresh": 0
+  },
+  {
+   "name": "Zeta",
+   "source": "lever",
+   "status": "working",
+   "listed": 31,
+   "fresh": 0
+  },
+  {
+   "name": "Druva",
+   "source": "gh",
+   "status": "working",
+   "listed": 27,
+   "fresh": 0
+  },
+  {
+   "name": "Pure Storage",
+   "source": "gh",
+   "status": "working",
+   "listed": 360,
+   "fresh": 8
+  },
+  {
+   "name": "Confluent",
+   "source": "ashby",
+   "status": "no jobs",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Paytm",
+   "source": "lever",
+   "status": "working",
+   "listed": 201,
+   "fresh": 0
+  },
+  {
+   "name": "Notion",
+   "source": "ashby",
+   "status": "working",
+   "listed": 148,
+   "fresh": 0
+  },
+  {
+   "name": "Linear",
+   "source": "ashby",
+   "status": "working",
+   "listed": 31,
+   "fresh": 0
+  },
+  {
+   "name": "Supabase",
+   "source": "ashby",
+   "status": "working",
+   "listed": 68,
+   "fresh": 0
+  },
+  {
+   "name": "Cohere",
+   "source": "ashby",
+   "status": "working",
+   "listed": 122,
+   "fresh": 0
+  },
+  {
+   "name": "Scale AI",
+   "source": "gh",
+   "status": "working",
+   "listed": 170,
+   "fresh": 0
+  },
+  {
+   "name": "Airtable",
+   "source": "gh",
+   "status": "working",
+   "listed": 5,
+   "fresh": 0
+  },
+  {
+   "name": "Elastic",
+   "source": "gh",
+   "status": "working",
+   "listed": 407,
+   "fresh": 0
+  },
+  {
+   "name": "Sumo Logic",
+   "source": "gh",
+   "status": "working",
+   "listed": 10,
+   "fresh": 0
+  },
+  {
+   "name": "Mixpanel",
+   "source": "gh",
+   "status": "working",
+   "listed": 43,
+   "fresh": 0
+  },
+  {
+   "name": "Amplitude",
+   "source": "ashby",
+   "status": "working",
+   "listed": 47,
+   "fresh": 0
+  },
+  {
+   "name": "Observe.AI",
+   "source": "gh",
+   "status": "working",
+   "listed": 8,
+   "fresh": 0
+  },
+  {
+   "name": "Sarvam",
+   "source": "ashby",
+   "status": "working",
+   "listed": 46,
+   "fresh": 0
+  },
+  {
+   "name": "Amazon",
+   "source": "amazon",
+   "status": "working",
+   "listed": 100,
+   "fresh": 0
+  },
+  {
+   "name": "Grammarly",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "ThoughtSpot",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "BrowserStack",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Sprinklr",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Sharechat",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Jupiter",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Urban Company",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Lenskart",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Nykaa",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Delhivery",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Cleartax",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Hasura",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Cohesity",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Postman",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "PhonePe",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Chargebee",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Zepto",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Juspay",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Rippling",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Uber",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Swiggy",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Dream11",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Flipkart",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Gojek",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Khatabook",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Cars24",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Spinny",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Ola",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Zomato",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Nutanix",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "HashiCorp",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Canva",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Clevertap",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Moengage",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Whatfix",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Yellow.ai",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Uniphore",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Krutrim",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Ather Energy",
+   "source": "?",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  }
+ ]
+}

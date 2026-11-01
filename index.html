@@ -1,0 +1,30 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Fresh Jobs</title>
+<style>
+:root{--bg:#fff;--fg:#1a1a1a;--mut:#666;--bd:#e3e3e3;--ac:#0b6bcb}
+@media(prefers-color-scheme:dark){:root{--bg:#141414;--fg:#eee;--mut:#999;--bd:#2c2c2c;--ac:#6cb2ff}}
+body{margin:0;background:var(--bg);color:var(--fg);font:15px system-ui,sans-serif}
+main{max-width:760px;margin:0 auto;padding:20px 16px}
+input,select{padding:8px;border:1px solid var(--bd);border-radius:6px;background:var(--bg);color:var(--fg);font:inherit}
+input{flex:1;min-width:160px}.bar{display:flex;gap:8px;margin:12px 0}
+.job{display:block;padding:12px 0;border-bottom:1px solid var(--bd);text-decoration:none;color:inherit}
+.job b{color:var(--ac)}.mut{color:var(--mut);font-size:13px}.new{color:#d33;font-weight:600}
+</style></head><body><main>
+<h2>Fresher jobs · India · last 72h</h2><div class="mut" id="upd"></div>
+<div class="bar"><input id="q" placeholder="Search title or company"><select id="co"><option value="">All companies</option></select><label class="mut" style="white-space:nowrap"><input type="checkbox" id="mb" style="flex:none;min-width:0"> include possible</label></div>
+<div id="list"></div>
+<details id="st" style="margin-top:24px"><summary class="mut" id="sts">Companies tracked</summary><div id="stb" class="mut"></div></details></main>
+<script>
+let jobs=[];const $=id=>document.getElementById(id);
+const ago=d=>{const h=(Date.now()-new Date(d))/36e5;return h<1?Math.max(1,Math.round(h*60))+"m ago":h<24?Math.round(h)+"h ago":Math.round(h/24)+"d ago"};
+function draw(){const q=$("q").value.toLowerCase(),c=$("co").value;
+$("list").innerHTML=jobs.filter(j=>(!c||j.company===c)&&(j.fit==="fresher"||$("mb").checked)&&(j.title+j.company).toLowerCase().includes(q)).map(j=>{
+const h=(Date.now()-new Date(j.posted))/36e5;
+return `<a class="job" href="${j.url}" target="_blank" rel="noopener"><b>${j.title}</b><div class="mut">${j.company} · ${j.location} · ${h<6?'<span class="new">NEW</span> ':''}${ago(j.posted)} · ${j.fit==="fresher"?"Fresher fit":"Possible"}${j.why?" ("+j.why+")":""}</div></a>`}).join("")||"<p class=mut>No matches.</p>"}
+fetch("jobs.json?"+Date.now()).then(r=>r.json()).then(d=>{jobs=d.jobs;$("upd").textContent="Updated "+ago(d.updated)+" · "+jobs.length+" openings";
+[...new Set(jobs.map(j=>j.company))].sort().forEach(c=>$("co").add(new Option(c,c)));draw()}).catch(()=>$("list").textContent="jobs.json not found yet. Run the workflow once.");
+fetch("status.json?"+Date.now()).then(r=>r.json()).then(d=>{const c=d.companies,g=s=>c.filter(x=>x.status===s).map(x=>x.name+(x.fresh?" ("+x.fresh+")":"")).join(", ")||"none";
+$("sts").textContent="Tracking "+c.length+" companies · "+c.filter(x=>x.status!=="failed").length+" working · "+c.filter(x=>x.status==="failed").length+" failed";
+$("stb").innerHTML="<p><b>Working:</b> "+g("working")+"</p><p><b>Working, no jobs listed:</b> "+g("no jobs")+"</p><p><b>Failed (address wrong or blocked):</b> "+g("failed")+"</p>"}).catch(()=>{});
+$("mb").onchange=draw;$("q").oninput=draw;$("co").onchange=draw;
+</script></body></html>
