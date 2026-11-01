@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-01T14:16:30.196076+00:00",
+ "updated": "2026-11-01T14:46:41.268134+00:00",
  "companies": [
   {
    "name": "databricks",
    "source": "gh",
    "status": "working",
-   "listed": 904,
+   "listed": 905,
    "fresh": 0
   },
   {
@@ -61,8 +61,8 @@
    "name": "stripe",
    "source": "gh",
    "status": "working",
-   "listed": 745,
-   "fresh": 6
+   "listed": 746,
+   "fresh": 0
   },
   {
    "name": "airbnb",
@@ -174,13 +174,6 @@
    "source": "wd",
    "status": "working",
    "listed": 3,
-   "fresh": 0
-  },
-  {
-   "name": "grammarly",
-   "source": "gh",
-   "status": "failed",
-   "listed": 0,
    "fresh": 0
   },
   {
@@ -520,20 +513,6 @@
    "fresh": 0
   },
   {
-   "name": "Grammarly",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "ThoughtSpot",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
    "name": "BrowserStack",
    "source": "?",
    "status": "failed",
@@ -542,251 +521,6 @@
   },
   {
    "name": "Sprinklr",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Sharechat",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Jupiter",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Urban Company",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Lenskart",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Nykaa",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Delhivery",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Cleartax",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Hasura",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Cohesity",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Postman",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "PhonePe",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Chargebee",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Zepto",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Juspay",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Rippling",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Uber",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Swiggy",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Dream11",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Flipkart",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Gojek",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Khatabook",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Cars24",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Spinny",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Ola",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Zomato",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Nutanix",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "HashiCorp",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Canva",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Clevertap",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Moengage",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Whatfix",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Yellow.ai",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Uniphore",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Krutrim",
-   "source": "?",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
-  },
-  {
-   "name": "Ather Energy",
    "source": "?",
    "status": "failed",
    "listed": 0,

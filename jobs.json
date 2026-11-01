@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T14:16:30.196076+00:00",
+ "updated": "2026-11-01T14:46:41.268134+00:00",
  "jobs": [
   {
    "company": "Samsara",
@@ -33,7 +33,7 @@
    "title": "Software Engineering AMTS",
    "location": "2 Locations",
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-AMTS_JR307116",
-   "posted": "2026-10-30T14:16:30.196076+00:00",
+   "posted": "2026-10-30T14:46:41.268134+00:00",
    "fit": "fresher",
    "why": "new grad"
   },
@@ -42,7 +42,7 @@
    "title": "Technical Writing Analyst",
    "location": "2 Locations",
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Technical-Writing-Analyst_JR366429",
-   "posted": "2026-10-30T14:16:30.196076+00:00",
+   "posted": "2026-10-30T14:46:41.268134+00:00",
    "fit": "fresher",
    "why": "new grad"
   },
@@ -63,60 +63,6 @@
    "posted": "2026-10-29T16:28:18-04:00",
    "fit": "fresher",
    "why": "entry-level"
-  },
-  {
-   "company": "stripe",
-   "title": "Fraud Operations Associate (Mandarin Speaking)",
-   "location": "Bengaluru",
-   "url": "https://stripe.com/jobs/search?gh_jid=8076652",
-   "posted": "2026-10-29T10:42:09-04:00",
-   "fit": "fresher",
-   "why": "Associate"
-  },
-  {
-   "company": "stripe",
-   "title": "Fraud Operations Associate SDC",
-   "location": "Bengaluru",
-   "url": "https://stripe.com/jobs/search?gh_jid=8066310",
-   "posted": "2026-10-29T10:42:09-04:00",
-   "fit": "fresher",
-   "why": "Associate"
-  },
-  {
-   "company": "stripe",
-   "title": "Operations Associate, Apprenticeship",
-   "location": "Bengaluru",
-   "url": "https://stripe.com/jobs/search?gh_jid=8131339",
-   "posted": "2026-10-29T10:42:09-04:00",
-   "fit": "fresher",
-   "why": "Associate"
-  },
-  {
-   "company": "stripe",
-   "title": "Product Support Operations Associate, Weekend Shift",
-   "location": "Bengaluru",
-   "url": "https://stripe.com/jobs/search?gh_jid=7975698",
-   "posted": "2026-10-29T10:42:09-04:00",
-   "fit": "fresher",
-   "why": "Associate"
-  },
-  {
-   "company": "stripe",
-   "title": "Software Engineer, New Grad",
-   "location": "Bangalore",
-   "url": "https://stripe.com/jobs/search?gh_jid=8130876",
-   "posted": "2026-10-29T10:42:09-04:00",
-   "fit": "fresher",
-   "why": "New Grad"
-  },
-  {
-   "company": "stripe",
-   "title": "Verifications Operations Associate",
-   "location": "Bengaluru",
-   "url": "https://stripe.com/jobs/search?gh_jid=8022703",
-   "posted": "2026-10-29T10:42:09-04:00",
-   "fit": "fresher",
-   "why": "Associate"
   },
   {
    "company": "Pure Storage",
@@ -195,7 +141,7 @@
    "title": "Analyst, Risk Management",
    "location": "Pune, India",
    "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Analyst--Risk-Management_R-294790",
-   "posted": "2026-10-30T14:16:30.196076+00:00",
+   "posted": "2026-10-30T14:46:41.268134+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -222,7 +168,7 @@
    "title": "Systems Engineer / Level 6 or Level 7",
    "location": "2 Locations",
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Systems-Engineer--lLevel-6---7-_JR366389",
-   "posted": "2026-10-29T14:16:30.196076+00:00",
+   "posted": "2026-10-29T14:46:41.268134+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -231,7 +177,7 @@
    "title": "Technical Support Engineer - Agentforce & Data 360",
    "location": "2 Locations",
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Agentforce---Data-360-Support-Engineer_JR336646",
-   "posted": "2026-10-29T14:16:30.196076+00:00",
+   "posted": "2026-10-29T14:46:41.268134+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -240,7 +186,7 @@
    "title": "Product Security Engineer",
    "location": "India - Hyderabad",
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Product-Security-Engineer_JR355204",
-   "posted": "2026-10-29T14:16:30.196076+00:00",
+   "posted": "2026-10-29T14:46:41.268134+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -249,7 +195,7 @@
    "title": "Systems Engineer- Workday - Finance ERP",
    "location": "2 Locations",
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Systems-Engineer---Workday---Finance-ERP_JR363887",
-   "posted": "2026-10-29T14:16:30.196076+00:00",
+   "posted": "2026-10-29T14:46:41.268134+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -258,7 +204,7 @@
    "title": "Software Engineer II",
    "location": "Pune, India",
    "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Product-Manager---Technical-II_R-293237",
-   "posted": "2026-10-29T14:16:30.196076+00:00",
+   "posted": "2026-10-29T14:46:41.268134+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -267,7 +213,7 @@
    "title": "Vice President, Software Engineering",
    "location": "Pune, India",
    "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Vice-President--Software-Engineering_R-276668",
-   "posted": "2026-10-29T14:16:30.196076+00:00",
+   "posted": "2026-10-29T14:46:41.268134+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -276,7 +222,7 @@
    "title": "Data Scientist II",
    "location": "Pune, India",
    "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Data-Scientist-II_R-294771",
-   "posted": "2026-10-29T14:16:30.196076+00:00",
+   "posted": "2026-10-29T14:46:41.268134+00:00",
    "fit": "maybe",
    "why": ""
   }
