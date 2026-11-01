@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-01T14:52:41.059675+00:00",
+ "updated": "2026-11-01T18:47:04.840585+00:00",
  "companies": [
   {
    "name": "databricks",
    "source": "gh",
    "status": "working",
-   "listed": 905,
+   "listed": 909,
    "fresh": 0
   },
   {
@@ -145,7 +145,7 @@
    "name": "Salesforce",
    "source": "wd",
    "status": "working",
-   "listed": 144,
+   "listed": 141,
    "fresh": 3
   },
   {
@@ -257,7 +257,7 @@
    "name": "Samsara",
    "source": "gh",
    "status": "working",
-   "listed": 338,
+   "listed": 339,
    "fresh": 0
   },
   {
@@ -299,7 +299,7 @@
    "name": "Anthropic",
    "source": "gh",
    "status": "working",
-   "listed": 675,
+   "listed": 674,
    "fresh": 0
   },
   {
@@ -404,7 +404,7 @@
    "name": "Pure Storage",
    "source": "gh",
    "status": "working",
-   "listed": 360,
+   "listed": 359,
    "fresh": 17
   },
   {
@@ -446,7 +446,7 @@
    "name": "Cohere",
    "source": "ashby",
    "status": "working",
-   "listed": 122,
+   "listed": 120,
    "fresh": 0
   },
   {
