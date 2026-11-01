@@ -1,22 +1,29 @@
-import json, os, re, time, html, urllib.request, urllib.parse
+import json, os, re, time, html, urllib.request, urllib.error, urllib.parse
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone, timedelta
 
 MAX_AGE_H = 72
 INDIA = re.compile(r"india|bengaluru|bangalore|hyderabad|pune|gurgaon|gurugram|noida|delhi|mumbai|chennai|kolkata|ahmedabad", re.I)
-ROLE = re.compile(r"software|sde|swe|developer|engineer|data|graduate|associate|analyst|trainee|new grad|entry", re.I)
-SKIP = re.compile(r"senior|sr\.|staff|principal|lead|manager|director|head|vp|architect|intern\b", re.I)
+ROLE = re.compile(r"engineer|developer|\bsde\b|\bswe\b|software|programmer|devops|\bsre\b|sdet|machine learning|data scientist|member of technical staff|\bmts\b|\bamts\b", re.I)
+SKIP = re.compile(r"senior|sr\.|(?<!technical )staff|principal|lead|manager|director|head|vp|architect|intern\b|\b(?:ii|iii|iv)\b|sales|recruit|marketing|finance|legal|writer|writing|risk|compliance|account|payroll|talent|customer|solutions|consultant|support|business|operations", re.I)
 TITLE_SIG = re.compile(r"graduate|new grad|trainee|early[- ]career|entry|\bassociate\b|\b(?:sde|swe|engineer|developer|analyst)[- ]?(?:i|1)\b", re.I)
 FRESH = re.compile(r"fresher|new[- ]?grad|recent (?:graduate|grad)|fresh graduate|class of 2026|2026 (?:batch|graduate|grad)|batch of 2026|graduating in 2026|early[- ]career|entry[- ]level|university (?:grad|hire)|college (?:grad|hire)|campus (?:hire|recruit)|(?<!\d)0\s*(?:-|–|to)\s*[12]\s*years?|no (?:prior )?(?:work )?experience", re.I)
 now = datetime.now(timezone.utc)
 failed = set()
 
 def get(url, quiet=False):
-    try:
-        with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"}), timeout=25) as r:
-            return json.load(r)
-    except Exception as e:
-        if not quiet: print("FAIL", url, e); failed.add(url)
+    err = None
+    for _ in range(3):
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"}), timeout=60) as r:
+                return json.load(r)
+        except urllib.error.HTTPError as e:
+            err = e
+            if e.code == 404: break
+        except Exception as e:
+            err = e
+        time.sleep(2)
+    if not quiet: print("FAIL", url, err); failed.add(url)
 
 def post(url, body):
     try:
