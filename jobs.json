@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T13:40:10.590771+00:00",
+ "updated": "2026-11-01T14:16:30.196076+00:00",
  "jobs": [
   {
    "company": "Samsara",
@@ -33,7 +33,7 @@
    "title": "Software Engineering AMTS",
    "location": "2 Locations",
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-AMTS_JR307116",
-   "posted": "2026-10-30T13:40:10.590771+00:00",
+   "posted": "2026-10-30T14:16:30.196076+00:00",
    "fit": "fresher",
    "why": "new grad"
   },
@@ -42,9 +42,18 @@
    "title": "Technical Writing Analyst",
    "location": "2 Locations",
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Technical-Writing-Analyst_JR366429",
-   "posted": "2026-10-30T13:40:10.590771+00:00",
+   "posted": "2026-10-30T14:16:30.196076+00:00",
    "fit": "fresher",
    "why": "new grad"
+  },
+  {
+   "company": "rubrik",
+   "title": "Software Engineer- SaaS O365",
+   "location": "Bangalore ",
+   "url": "https://www.rubrik.com/company/careers/departments/job.8256407?gh_jid=8256407",
+   "posted": "2026-10-30T02:17:20-04:00",
+   "fit": "fresher",
+   "why": "0-2 years"
   },
   {
    "company": "Zscaler",
@@ -186,7 +195,16 @@
    "title": "Analyst, Risk Management",
    "location": "Pune, India",
    "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Analyst--Risk-Management_R-294790",
-   "posted": "2026-10-30T13:40:10.590771+00:00",
+   "posted": "2026-10-30T14:16:30.196076+00:00",
+   "fit": "maybe",
+   "why": ""
+  },
+  {
+   "company": "rubrik",
+   "title": "Database Reliability Engineer/Database Engineer (Rubrik Security Cloud Platform)",
+   "location": "Bengaluru",
+   "url": "https://www.rubrik.com/company/careers/departments/job.8161018?gh_jid=8161018",
+   "posted": "2026-10-30T01:33:38-04:00",
    "fit": "maybe",
    "why": ""
   },
@@ -204,7 +222,7 @@
    "title": "Systems Engineer / Level 6 or Level 7",
    "location": "2 Locations",
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Systems-Engineer--lLevel-6---7-_JR366389",
-   "posted": "2026-10-29T13:40:10.590771+00:00",
+   "posted": "2026-10-29T14:16:30.196076+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -213,7 +231,7 @@
    "title": "Technical Support Engineer - Agentforce & Data 360",
    "location": "2 Locations",
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Agentforce---Data-360-Support-Engineer_JR336646",
-   "posted": "2026-10-29T13:40:10.590771+00:00",
+   "posted": "2026-10-29T14:16:30.196076+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -222,7 +240,7 @@
    "title": "Product Security Engineer",
    "location": "India - Hyderabad",
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Product-Security-Engineer_JR355204",
-   "posted": "2026-10-29T13:40:10.590771+00:00",
+   "posted": "2026-10-29T14:16:30.196076+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -231,7 +249,7 @@
    "title": "Systems Engineer- Workday - Finance ERP",
    "location": "2 Locations",
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Systems-Engineer---Workday---Finance-ERP_JR363887",
-   "posted": "2026-10-29T13:40:10.590771+00:00",
+   "posted": "2026-10-29T14:16:30.196076+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -240,7 +258,7 @@
    "title": "Software Engineer II",
    "location": "Pune, India",
    "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Product-Manager---Technical-II_R-293237",
-   "posted": "2026-10-29T13:40:10.590771+00:00",
+   "posted": "2026-10-29T14:16:30.196076+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -249,7 +267,7 @@
    "title": "Vice President, Software Engineering",
    "location": "Pune, India",
    "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Vice-President--Software-Engineering_R-276668",
-   "posted": "2026-10-29T13:40:10.590771+00:00",
+   "posted": "2026-10-29T14:16:30.196076+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -258,7 +276,7 @@
    "title": "Data Scientist II",
    "location": "Pune, India",
    "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Data-Scientist-II_R-294771",
-   "posted": "2026-10-29T13:40:10.590771+00:00",
+   "posted": "2026-10-29T14:16:30.196076+00:00",
    "fit": "maybe",
    "why": ""
   }

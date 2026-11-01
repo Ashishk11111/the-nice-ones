@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T13:40:10.590771+00:00",
+ "updated": "2026-11-01T14:16:30.196076+00:00",
  "companies": [
   {
    "name": "databricks",
@@ -46,9 +46,9 @@
   {
    "name": "rubrik",
    "source": "gh",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
+   "status": "working",
+   "listed": 157,
+   "fresh": 2
   },
   {
    "name": "groww",
@@ -95,8 +95,8 @@
   {
    "name": "razorpaysoftwareprivatelimited",
    "source": "gh",
-   "status": "failed",
-   "listed": 0,
+   "status": "working",
+   "listed": 31,
    "fresh": 0
   },
   {
@@ -368,8 +368,8 @@
   {
    "name": "New Relic",
    "source": "gh",
-   "status": "failed",
-   "listed": 0,
+   "status": "working",
+   "listed": 52,
    "fresh": 0
   },
   {
