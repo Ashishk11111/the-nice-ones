@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-01T18:47:04.840585+00:00",
+ "updated": "2026-11-01T22:32:16.701986+00:00",
  "jobs": [
   {
    "company": "Salesforce",
    "title": "Software Engineering AMTS",
    "location": "2 Locations",
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-AMTS_JR307116",
-   "posted": "2026-10-30T18:47:04.840585+00:00",
+   "posted": "2026-10-30T22:32:16.701986+00:00",
    "fit": "fresher",
    "why": "new grad"
   },
@@ -68,7 +68,7 @@
    "company": "Pure Storage",
    "title": "Member of Technical Staff - FlashArray",
    "location": "Bangalore, India",
-   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8170887",
+   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8170836",
    "posted": "2026-11-01T03:54:00-05:00",
    "fit": "maybe",
    "why": ""
@@ -86,7 +86,7 @@
    "company": "Pure Storage",
    "title": "Member of Technical Staff - FlashArray",
    "location": "Bangalore, India",
-   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8170836",
+   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8170887",
    "posted": "2026-11-01T03:54:00-05:00",
    "fit": "maybe",
    "why": ""
@@ -140,7 +140,7 @@
    "company": "Pure Storage",
    "title": "MTS - Performance Engineering",
    "location": "Bangalore, India",
-   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8242551",
+   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8169046",
    "posted": "2026-11-01T03:54:00-05:00",
    "fit": "maybe",
    "why": ""
@@ -149,7 +149,7 @@
    "company": "Pure Storage",
    "title": "MTS - Performance Engineering",
    "location": "Bangalore, India",
-   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8169046",
+   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8242551",
    "posted": "2026-11-01T03:54:00-05:00",
    "fit": "maybe",
    "why": ""
@@ -182,20 +182,11 @@
    "why": ""
   },
   {
-   "company": "Zscaler",
-   "title": "Escalation Engineer - ZIA/ZPA",
-   "location": "Bangalore, IND; Mohali, IND",
-   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5210010007",
-   "posted": "2026-10-29T16:28:18-04:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
    "company": "Salesforce",
    "title": "Systems Engineer / Level 6 or Level 7",
    "location": "2 Locations",
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Systems-Engineer--lLevel-6---7-_JR366389",
-   "posted": "2026-10-29T18:47:04.840585+00:00",
+   "posted": "2026-10-29T22:32:16.701986+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -204,7 +195,7 @@
    "title": "Product Security Engineer",
    "location": "India - Hyderabad",
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Product-Security-Engineer_JR355204",
-   "posted": "2026-10-29T18:47:04.840585+00:00",
+   "posted": "2026-10-29T22:32:16.701986+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -213,7 +204,7 @@
    "title": "Vice President, Software Engineering",
    "location": "Pune, India",
    "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Vice-President--Software-Engineering_R-276668",
-   "posted": "2026-10-29T18:47:04.840585+00:00",
+   "posted": "2026-10-29T22:32:16.701986+00:00",
    "fit": "maybe",
    "why": ""
   }

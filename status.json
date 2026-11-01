@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T18:47:04.840585+00:00",
+ "updated": "2026-11-01T22:32:16.701986+00:00",
  "companies": [
   {
    "name": "databricks",
@@ -61,7 +61,7 @@
    "name": "stripe",
    "source": "gh",
    "status": "working",
-   "listed": 746,
+   "listed": 745,
    "fresh": 0
   },
   {
@@ -257,7 +257,7 @@
    "name": "Samsara",
    "source": "gh",
    "status": "working",
-   "listed": 339,
+   "listed": 340,
    "fresh": 0
   },
   {
@@ -299,14 +299,14 @@
    "name": "Anthropic",
    "source": "gh",
    "status": "working",
-   "listed": 674,
+   "listed": 672,
    "fresh": 0
   },
   {
    "name": "OpenAI",
    "source": "ashby",
    "status": "working",
-   "listed": 810,
+   "listed": 809,
    "fresh": 0
   },
   {
@@ -349,7 +349,7 @@
    "source": "gh",
    "status": "working",
    "listed": 363,
-   "fresh": 1
+   "fresh": 0
   },
   {
    "name": "PagerDuty",
