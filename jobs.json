@@ -1,23 +1,32 @@
 {
- "updated": "2026-11-02T01:59:10.594421+00:00",
+ "updated": "2026-11-02T08:59:08.010884+00:00",
  "jobs": [
+  {
+   "company": "rubrik",
+   "title": "Software Engineer - Cloud: Azure",
+   "location": "Bangalore ",
+   "url": "https://www.rubrik.com/company/careers/departments/job.8258200?gh_jid=8258200",
+   "posted": "2026-11-02T03:33:02-05:00",
+   "fit": "fresher",
+   "why": "0-2 years"
+  },
   {
    "company": "Salesforce",
    "title": "Software Engineering AMTS",
    "location": "2 Locations",
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-AMTS_JR307116",
-   "posted": "2026-10-31T01:59:10.594421+00:00",
+   "posted": "2026-10-30T08:59:08.010884+00:00",
    "fit": "fresher",
    "why": "new grad"
   },
   {
-   "company": "rubrik",
-   "title": "Software Engineer- SaaS O365",
-   "location": "Bangalore ",
-   "url": "https://www.rubrik.com/company/careers/departments/job.8256407?gh_jid=8256407",
-   "posted": "2026-10-30T02:17:20-04:00",
-   "fit": "fresher",
-   "why": "0-2 years"
+   "company": "GitLab",
+   "title": "Intermediate Data Engineer",
+   "location": "Bangalore, India",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8924923002",
+   "posted": "2026-11-02T01:44:11-05:00",
+   "fit": "maybe",
+   "why": ""
   },
   {
    "company": "Pure Storage",
@@ -68,6 +77,15 @@
    "company": "Pure Storage",
    "title": "Member of Technical Staff - FlashArray",
    "location": "Bangalore, India",
+   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8170836",
+   "posted": "2026-11-01T03:54:00-05:00",
+   "fit": "maybe",
+   "why": ""
+  },
+  {
+   "company": "Pure Storage",
+   "title": "Member of Technical Staff - FlashArray",
+   "location": "Bangalore, India",
    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8170887",
    "posted": "2026-11-01T03:54:00-05:00",
    "fit": "maybe",
@@ -78,15 +96,6 @@
    "title": "Member of Technical Staff - FlashArray",
    "location": "Bangalore, India",
    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8226182",
-   "posted": "2026-11-01T03:54:00-05:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Pure Storage",
-   "title": "Member of Technical Staff - FlashArray",
-   "location": "Bangalore, India",
-   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8170836",
    "posted": "2026-11-01T03:54:00-05:00",
    "fit": "maybe",
    "why": ""
@@ -140,7 +149,7 @@
    "company": "Pure Storage",
    "title": "MTS - Performance Engineering",
    "location": "Bangalore, India",
-   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8242551",
+   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8169046",
    "posted": "2026-11-01T03:54:00-05:00",
    "fit": "maybe",
    "why": ""
@@ -149,7 +158,7 @@
    "company": "Pure Storage",
    "title": "MTS - Performance Engineering",
    "location": "Bangalore, India",
-   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8169046",
+   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8242551",
    "posted": "2026-11-01T03:54:00-05:00",
    "fit": "maybe",
    "why": ""
@@ -169,42 +178,6 @@
    "location": "Bangalore, India",
    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8129753",
    "posted": "2026-11-01T03:54:00-05:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "rubrik",
-   "title": "Database Reliability Engineer/Database Engineer (Rubrik Security Cloud Platform)",
-   "location": "Bengaluru",
-   "url": "https://www.rubrik.com/company/careers/departments/job.8161018?gh_jid=8161018",
-   "posted": "2026-10-30T01:33:38-04:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Salesforce",
-   "title": "Systems Engineer / Level 6 or Level 7",
-   "location": "2 Locations",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Systems-Engineer--lLevel-6---7-_JR366389",
-   "posted": "2026-10-30T01:59:10.594421+00:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Salesforce",
-   "title": "Product Security Engineer",
-   "location": "India - Hyderabad",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Product-Security-Engineer_JR355204",
-   "posted": "2026-10-30T01:59:10.594421+00:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Mastercard",
-   "title": "Vice President, Software Engineering",
-   "location": "Pune, India",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Vice-President--Software-Engineering_R-276668",
-   "posted": "2026-10-30T01:59:10.594421+00:00",
    "fit": "maybe",
    "why": ""
   }
