@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-02T08:59:08.010884+00:00",
+ "updated": "2026-11-02T19:15:38.491076+00:00",
  "jobs": [
+  {
+   "company": "NVIDIA",
+   "title": "Formal Verification Engineer - New College Graduate 2026",
+   "location": "2 Locations",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Gurugram/Formal-Verification-Engineer---New-College-Graduate-2026_JR2028897",
+   "posted": "2026-11-02T19:15:38.491076+00:00",
+   "fit": "fresher",
+   "why": "Graduate"
+  },
   {
    "company": "rubrik",
    "title": "Software Engineer - Cloud: Azure",
@@ -11,13 +20,31 @@
    "why": "0-2 years"
   },
   {
-   "company": "Salesforce",
-   "title": "Software Engineering AMTS",
+   "company": "NVIDIA",
+   "title": "Verification Engineer -  ARM Fabric Unit Level",
    "location": "2 Locations",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-AMTS_JR307116",
-   "posted": "2026-10-30T08:59:08.010884+00:00",
-   "fit": "fresher",
-   "why": "new grad"
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Verification-Engineer----ARM-Fabric-Unit-Level_JR2028794",
+   "posted": "2026-11-02T19:15:38.491076+00:00",
+   "fit": "maybe",
+   "why": ""
+  },
+  {
+   "company": "Pure Storage",
+   "title": "Member Of Technical Staff, Datapath Engineering (C,C++)",
+   "location": "Bangalore, India",
+   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8345505",
+   "posted": "2026-11-02T09:55:44-05:00",
+   "fit": "maybe",
+   "why": ""
+  },
+  {
+   "company": "mongodb",
+   "title": "Technical Services Engineer",
+   "location": "Bengaluru",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8007613",
+   "posted": "2026-11-02T07:58:50-05:00",
+   "fit": "maybe",
+   "why": ""
   },
   {
    "company": "GitLab",
@@ -77,7 +104,7 @@
    "company": "Pure Storage",
    "title": "Member of Technical Staff - FlashArray",
    "location": "Bangalore, India",
-   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8170836",
+   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8170887",
    "posted": "2026-11-01T03:54:00-05:00",
    "fit": "maybe",
    "why": ""
@@ -86,7 +113,7 @@
    "company": "Pure Storage",
    "title": "Member of Technical Staff - FlashArray",
    "location": "Bangalore, India",
-   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8170887",
+   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8170836",
    "posted": "2026-11-01T03:54:00-05:00",
    "fit": "maybe",
    "why": ""
