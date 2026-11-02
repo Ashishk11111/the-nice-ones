@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T22:32:16.701986+00:00",
+ "updated": "2026-11-02T01:59:10.594421+00:00",
  "companies": [
   {
    "name": "databricks",
@@ -19,7 +19,7 @@
    "name": "cloudflare",
    "source": "gh",
    "status": "working",
-   "listed": 463,
+   "listed": 468,
    "fresh": 0
   },
   {
@@ -61,7 +61,7 @@
    "name": "stripe",
    "source": "gh",
    "status": "working",
-   "listed": 745,
+   "listed": 746,
    "fresh": 0
   },
   {
@@ -75,7 +75,7 @@
    "name": "coinbase",
    "source": "gh",
    "status": "working",
-   "listed": 254,
+   "listed": 252,
    "fresh": 0
   },
   {
@@ -306,7 +306,7 @@
    "name": "OpenAI",
    "source": "ashby",
    "status": "working",
-   "listed": 809,
+   "listed": 812,
    "fresh": 0
   },
   {
@@ -341,7 +341,7 @@
    "name": "Snowflake",
    "source": "ashby",
    "status": "working",
-   "listed": 366,
+   "listed": 367,
    "fresh": 0
   },
   {
@@ -369,7 +369,7 @@
    "name": "Netskope",
    "source": "gh",
    "status": "working",
-   "listed": 121,
+   "listed": 120,
    "fresh": 0
   },
   {
