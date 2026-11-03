@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-03T07:36:59.694074+00:00",
+ "updated": "2026-11-03T08:52:42.974154+00:00",
  "companies": [
   {
    "name": "databricks",
    "source": "gh",
    "status": "working",
-   "listed": 910,
+   "listed": 909,
    "fresh": 0
   },
   {
@@ -47,7 +47,7 @@
    "name": "rubrik",
    "source": "gh",
    "status": "working",
-   "listed": 156,
+   "listed": 155,
    "fresh": 0
   },
   {
@@ -145,7 +145,7 @@
    "name": "Salesforce",
    "source": "wd",
    "status": "working",
-   "listed": 244,
+   "listed": 246,
    "fresh": 1
   },
   {
@@ -159,7 +159,7 @@
    "name": "Mastercard",
    "source": "wd",
    "status": "working",
-   "listed": 278,
+   "listed": 279,
    "fresh": 0
   },
   {
@@ -257,7 +257,7 @@
    "name": "Samsara",
    "source": "gh",
    "status": "working",
-   "listed": 330,
+   "listed": 329,
    "fresh": 0
   },
   {
@@ -306,7 +306,7 @@
    "name": "OpenAI",
    "source": "ashby",
    "status": "working",
-   "listed": 805,
+   "listed": 804,
    "fresh": 0
   },
   {
@@ -341,14 +341,14 @@
    "name": "Snowflake",
    "source": "ashby",
    "status": "working",
-   "listed": 367,
+   "listed": 368,
    "fresh": 0
   },
   {
    "name": "Zscaler",
    "source": "gh",
    "status": "working",
-   "listed": 361,
+   "listed": 362,
    "fresh": 0
   },
   {
@@ -397,7 +397,7 @@
    "name": "Druva",
    "source": "gh",
    "status": "working",
-   "listed": 27,
+   "listed": 26,
    "fresh": 0
   },
   {
@@ -474,7 +474,7 @@
    "name": "Sumo Logic",
    "source": "gh",
    "status": "working",
-   "listed": 10,
+   "listed": 11,
    "fresh": 0
   },
   {
