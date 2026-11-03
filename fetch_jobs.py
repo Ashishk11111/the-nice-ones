@@ -51,7 +51,7 @@ def classify(title, desc):
 def gh(slug, label):
     d = get(f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true")
     for j in (d or {}).get("jobs", []):
-        yield label, j["title"], j["location"]["name"], j["absolute_url"], iso(j.get("updated_at")), j.get("content", "")
+        yield label, j["title"], j["location"]["name"], j["absolute_url"], iso(j.get("first_published") or j.get("updated_at")), j.get("content", "")
 
 def lever(slug, label):
     for j in get(f"https://api.lever.co/v0/postings/{slug}?mode=json") or []:
