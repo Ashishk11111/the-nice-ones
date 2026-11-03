@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T07:18:44.452212+00:00",
+ "updated": "2026-11-03T07:36:59.694074+00:00",
  "companies": [
   {
    "name": "databricks",
@@ -47,7 +47,7 @@
    "name": "rubrik",
    "source": "gh",
    "status": "working",
-   "listed": 157,
+   "listed": 156,
    "fresh": 0
   },
   {
@@ -138,28 +138,28 @@
    "name": "Adobe",
    "source": "wd",
    "status": "working",
-   "listed": 109,
+   "listed": 56,
    "fresh": 0
   },
   {
    "name": "Salesforce",
    "source": "wd",
    "status": "working",
-   "listed": 141,
-   "fresh": 0
+   "listed": 244,
+   "fresh": 1
   },
   {
    "name": "NVIDIA",
    "source": "wd",
    "status": "working",
-   "listed": 171,
+   "listed": 311,
    "fresh": 2
   },
   {
    "name": "Mastercard",
    "source": "wd",
    "status": "working",
-   "listed": 141,
+   "listed": 278,
    "fresh": 0
   },
   {
@@ -173,21 +173,21 @@
    "name": "Autodesk",
    "source": "wd",
    "status": "working",
-   "listed": 3,
+   "listed": 1,
    "fresh": 0
   },
   {
    "name": "Browserstack",
    "source": "wd",
    "status": "working",
-   "listed": 108,
+   "listed": 36,
    "fresh": 0
   },
   {
    "name": "Sprinklr",
    "source": "wd",
    "status": "working",
-   "listed": 66,
+   "listed": 24,
    "fresh": 0
   },
   {
@@ -264,7 +264,7 @@
    "name": "Robinhood",
    "source": "gh",
    "status": "working",
-   "listed": 161,
+   "listed": 162,
    "fresh": 0
   },
   {
@@ -397,7 +397,7 @@
    "name": "Druva",
    "source": "gh",
    "status": "working",
-   "listed": 28,
+   "listed": 27,
    "fresh": 0
   },
   {
