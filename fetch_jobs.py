@@ -4,9 +4,9 @@ from datetime import datetime, timezone, timedelta
 
 MAX_AGE_H = 72
 INDIA = re.compile(r"india|bengaluru|bangalore|hyderabad|pune|gurgaon|gurugram|noida|delhi|mumbai|chennai|kolkata|ahmedabad", re.I)
-ROLE = re.compile(r"engineer|developer|\bsde\b|\bswe\b|software|programmer|devops|\bsre\b|sdet|machine learning|data scientist|member of technical staff|\bmts\b|\bamts\b", re.I)
-SKIP = re.compile(r"senior|sr\.|(?<!technical )staff|principal|lead|manager|director|head|vp|architect|intern\b|\b(?:ii|iii|iv)\b|sales|recruit|marketing|finance|legal|writer|writing|risk|compliance|account|payroll|talent|customer|solutions|consultant|support|business|operations", re.I)
-TITLE_SIG = re.compile(r"graduate|new grad|trainee|early[- ]career|entry|\bassociate\b|\b(?:sde|swe|engineer|developer|analyst)[- ]?(?:i|1)\b", re.I)
+ROLE = re.compile(r"engineer|developer|\bsde\b|\bswe\b|software|programmer|devops|\bsre\b|sdet|machine learning|data scientist|member of technical staff|(?:data|ml|ai|tech|technology|analytics|research|full[- ]?stack|backend|frontend|web|cloud)[\w -]{0,20}intern(?:ship)?|\bmts\b|\bamts\b", re.I)
+SKIP = re.compile(r"senior|sr\.|(?<!technical )staff|principal|lead|manager|director|head|vp|architect|\b(?:ii|iii|iv)\b|sales|recruit|marketing|finance|legal|writer|writing|risk|compliance|account|payroll|talent|customer|solutions|consultant|support|business|operations", re.I)
+TITLE_SIG = re.compile(r"intern(?:ship)?\b|graduate|new grad|trainee|early[- ]career|entry|\bassociate\b|\b(?:sde|swe|engineer|developer|analyst)[- ]?(?:i|1)\b", re.I)
 FRESH = re.compile(r"fresher|new[- ]?grad|recent (?:graduate|grad)|fresh graduate|class of 2026|2026 (?:batch|graduate|grad)|batch of 2026|graduating in 2026|early[- ]career|entry[- ]level|university (?:grad|hire)|college (?:grad|hire)|campus (?:hire|recruit)|(?<!\d)0\s*(?:-|–|to)\s*[12]\s*years?|no (?:prior )?(?:work )?experience", re.I)
 now = datetime.now(timezone.utc)
 failed = set()
@@ -69,15 +69,18 @@ def wdesc(base, tenant, site, path):
 def wd(spec, _):
     name, sub, tenant, site = spec.split("|")
     base = f"https://{sub}.myworkdayjobs.com"
-    for q in ("software engineer India", "data engineer India", "graduate India"):
-        for off in (0, 20, 40):
+    for q in ("software engineer India", "data engineer India", "new college graduate India", "early career India"):
+        off, total = 0, 1
+        while off < min(total, 400):
             d = post(f"{base}/wday/cxs/{tenant}/{site}/jobs", {"appliedFacets": {}, "limit": 20, "offset": off, "searchText": q})
-            if not d: break
-            for j in d.get("jobPostings", []):
+            if not d or not d.get("jobPostings"): break
+            if off == 0: total = d.get("total", 0)
+            for j in d["jobPostings"]:
                 po = j.get("postedOn", "")
                 m = re.search(r"(\d+)\+? Days", po)
                 days = int(m.group(1)) if m else (1 if "Yesterday" in po else 0)
                 yield name, j["title"], j.get("locationsText", ""), f"{base}/{site}{j['externalPath']}", now - timedelta(days=days), wdesc(base, tenant, site, j["externalPath"])
+            off += 20
 
 def amazon(_, __):
     for q in ("software+development+engineer", "data+engineer"):
