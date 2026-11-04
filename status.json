@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-04T02:50:04.519368+00:00",
+ "updated": "2026-11-04T03:21:10.581723+00:00",
  "companies": [
   {
    "name": "databricks",
    "source": "gh",
    "status": "working",
-   "listed": 914,
+   "listed": 915,
    "fresh": 0
   },
   {
@@ -75,7 +75,7 @@
    "name": "coinbase",
    "source": "gh",
    "status": "working",
-   "listed": 271,
+   "listed": 272,
    "fresh": 0
   },
   {
@@ -348,7 +348,7 @@
    "name": "Zscaler",
    "source": "gh",
    "status": "working",
-   "listed": 368,
+   "listed": 369,
    "fresh": 0
   },
   {
