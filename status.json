@@ -1,39 +1,39 @@
 {
- "updated": "2026-11-03T16:43:50.399242+00:00",
+ "updated": "2026-11-04T02:50:04.519368+00:00",
  "companies": [
   {
    "name": "databricks",
    "source": "gh",
    "status": "working",
-   "listed": 911,
+   "listed": 914,
    "fresh": 0
   },
   {
    "name": "mongodb",
    "source": "gh",
    "status": "working",
-   "listed": 358,
+   "listed": 360,
    "fresh": 0
   },
   {
    "name": "cloudflare",
    "source": "gh",
    "status": "working",
-   "listed": 465,
+   "listed": 468,
    "fresh": 0
   },
   {
    "name": "twilio",
    "source": "gh",
    "status": "working",
-   "listed": 134,
+   "listed": 133,
    "fresh": 0
   },
   {
    "name": "elastic",
    "source": "gh",
    "status": "working",
-   "listed": 413,
+   "listed": 414,
    "fresh": 0
   },
   {
@@ -47,7 +47,7 @@
    "name": "rubrik",
    "source": "gh",
    "status": "working",
-   "listed": 155,
+   "listed": 156,
    "fresh": 0
   },
   {
@@ -61,28 +61,28 @@
    "name": "stripe",
    "source": "gh",
    "status": "working",
-   "listed": 739,
+   "listed": 745,
    "fresh": 0
   },
   {
    "name": "airbnb",
    "source": "gh",
    "status": "working",
-   "listed": 210,
+   "listed": 213,
    "fresh": 0
   },
   {
    "name": "coinbase",
    "source": "gh",
    "status": "working",
-   "listed": 261,
+   "listed": 271,
    "fresh": 0
   },
   {
    "name": "fivetran",
    "source": "gh",
    "status": "working",
-   "listed": 158,
+   "listed": 156,
    "fresh": 0
   },
   {
@@ -145,8 +145,8 @@
    "name": "Salesforce",
    "source": "wd",
    "status": "working",
-   "listed": 248,
-   "fresh": 1
+   "listed": 245,
+   "fresh": 0
   },
   {
    "name": "NVIDIA",
@@ -194,21 +194,21 @@
    "name": "Datadog",
    "source": "gh",
    "status": "working",
-   "listed": 400,
+   "listed": 397,
    "fresh": 0
   },
   {
    "name": "GitLab",
    "source": "gh",
    "status": "working",
-   "listed": 240,
+   "listed": 239,
    "fresh": 1
   },
   {
    "name": "Pinterest",
    "source": "gh",
    "status": "working",
-   "listed": 167,
+   "listed": 168,
    "fresh": 0
   },
   {
@@ -222,28 +222,28 @@
    "name": "Discord",
    "source": "gh",
    "status": "working",
-   "listed": 38,
+   "listed": 33,
    "fresh": 0
   },
   {
    "name": "Figma",
    "source": "gh",
    "status": "working",
-   "listed": 144,
+   "listed": 145,
    "fresh": 0
   },
   {
    "name": "Lyft",
    "source": "gh",
    "status": "working",
-   "listed": 171,
+   "listed": 177,
    "fresh": 0
   },
   {
    "name": "Dropbox",
    "source": "gh",
    "status": "working",
-   "listed": 28,
+   "listed": 31,
    "fresh": 0
   },
   {
@@ -257,35 +257,35 @@
    "name": "Samsara",
    "source": "gh",
    "status": "working",
-   "listed": 331,
+   "listed": 326,
    "fresh": 0
   },
   {
    "name": "Robinhood",
    "source": "gh",
    "status": "working",
-   "listed": 160,
+   "listed": 159,
    "fresh": 0
   },
   {
    "name": "Brex",
    "source": "gh",
    "status": "working",
-   "listed": 267,
+   "listed": 270,
    "fresh": 0
   },
   {
    "name": "Gusto",
    "source": "gh",
    "status": "working",
-   "listed": 84,
+   "listed": 81,
    "fresh": 0
   },
   {
    "name": "Vercel",
    "source": "gh",
    "status": "working",
-   "listed": 90,
+   "listed": 88,
    "fresh": 0
   },
   {
@@ -299,21 +299,21 @@
    "name": "Anthropic",
    "source": "gh",
    "status": "working",
-   "listed": 675,
+   "listed": 682,
    "fresh": 0
   },
   {
    "name": "OpenAI",
    "source": "ashby",
    "status": "working",
-   "listed": 805,
+   "listed": 811,
    "fresh": 0
   },
   {
    "name": "Perplexity",
    "source": "ashby",
    "status": "working",
-   "listed": 136,
+   "listed": 137,
    "fresh": 0
   },
   {
@@ -327,28 +327,28 @@
    "name": "Plaid",
    "source": "ashby",
    "status": "working",
-   "listed": 137,
+   "listed": 138,
    "fresh": 0
   },
   {
    "name": "Palantir",
    "source": "lever",
    "status": "working",
-   "listed": 304,
+   "listed": 305,
    "fresh": 0
   },
   {
    "name": "Snowflake",
    "source": "ashby",
    "status": "working",
-   "listed": 365,
+   "listed": 367,
    "fresh": 0
   },
   {
    "name": "Zscaler",
    "source": "gh",
    "status": "working",
-   "listed": 364,
+   "listed": 368,
    "fresh": 0
   },
   {
@@ -362,14 +362,14 @@
    "name": "New Relic",
    "source": "gh",
    "status": "working",
-   "listed": 49,
+   "listed": 48,
    "fresh": 0
   },
   {
    "name": "Netskope",
    "source": "gh",
    "status": "working",
-   "listed": 122,
+   "listed": 119,
    "fresh": 0
   },
   {
@@ -397,14 +397,14 @@
    "name": "Druva",
    "source": "gh",
    "status": "working",
-   "listed": 27,
+   "listed": 28,
    "fresh": 0
   },
   {
    "name": "Pure Storage",
    "source": "gh",
    "status": "working",
-   "listed": 357,
+   "listed": 353,
    "fresh": 1
   },
   {
@@ -432,7 +432,7 @@
    "name": "Linear",
    "source": "ashby",
    "status": "working",
-   "listed": 31,
+   "listed": 32,
    "fresh": 0
   },
   {
@@ -467,14 +467,14 @@
    "name": "Elastic",
    "source": "gh",
    "status": "working",
-   "listed": 413,
+   "listed": 414,
    "fresh": 0
   },
   {
    "name": "Sumo Logic",
    "source": "gh",
    "status": "working",
-   "listed": 12,
+   "listed": 14,
    "fresh": 0
   },
   {
@@ -488,14 +488,14 @@
    "name": "Amplitude",
    "source": "ashby",
    "status": "working",
-   "listed": 47,
+   "listed": 49,
    "fresh": 0
   },
   {
    "name": "Observe.AI",
    "source": "gh",
    "status": "working",
-   "listed": 9,
+   "listed": 10,
    "fresh": 0
   },
   {
