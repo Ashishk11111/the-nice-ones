@@ -1,21 +1,12 @@
 {
- "updated": "2026-11-04T10:10:53.551451+00:00",
+ "updated": "2026-11-04T18:20:37.041834+00:00",
  "jobs": [
   {
-   "company": "NVIDIA",
-   "title": "Formal Verification Engineer - New College Graduate 2026",
-   "location": "2 Locations",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Gurugram/Formal-Verification-Engineer---New-College-Graduate-2026_JR2028897",
-   "posted": "2026-11-02T10:10:53.551451+00:00",
-   "fit": "fresher",
-   "why": "Graduate"
-  },
-  {
-   "company": "Pure Storage",
-   "title": "Member Of Technical Staff, Datapath Engineering (C,C++)",
-   "location": "Bangalore, India",
-   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8345505",
-   "posted": "2026-11-02T09:55:44-05:00",
+   "company": "Salesforce",
+   "title": "Software Engineering, MTS (Backend)",
+   "location": "India - Hyderabad",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering--MTS--Backend---Infra-_JR350272",
+   "posted": "2026-11-04T18:20:37.041834+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -24,7 +15,16 @@
    "title": "Verification Engineer -  ARM Fabric Unit Level",
    "location": "2 Locations",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Verification-Engineer----ARM-Fabric-Unit-Level_JR2028794",
-   "posted": "2026-11-02T10:10:53.551451+00:00",
+   "posted": "2026-11-02T18:20:37.041834+00:00",
+   "fit": "maybe",
+   "why": ""
+  },
+  {
+   "company": "Pure Storage",
+   "title": "Member Of Technical Staff, Datapath Engineering (C,C++)",
+   "location": "Bangalore, India",
+   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8345505",
+   "posted": "2026-11-02T09:55:44-05:00",
    "fit": "maybe",
    "why": ""
   },
