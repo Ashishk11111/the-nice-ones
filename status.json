@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T07:30:35.652208+00:00",
+ "updated": "2026-11-05T07:34:31.652924+00:00",
  "companies": [
   {
    "name": "databricks",
@@ -68,7 +68,7 @@
    "name": "airbnb",
    "source": "gh",
    "status": "working",
-   "listed": 208,
+   "listed": 207,
    "fresh": 0
   },
   {
