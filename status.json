@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T15:31:58.708083+00:00",
+ "updated": "2026-11-05T15:56:33.352802+00:00",
  "companies": [
   {
    "name": "databricks",
@@ -47,7 +47,7 @@
    "name": "rubrik",
    "source": "gh",
    "status": "working",
-   "listed": 150,
+   "listed": 151,
    "fresh": 0
   },
   {
@@ -201,7 +201,7 @@
    "name": "GitLab",
    "source": "gh",
    "status": "working",
-   "listed": 244,
+   "listed": 243,
    "fresh": 1
   },
   {
@@ -250,7 +250,7 @@
    "name": "Asana",
    "source": "gh",
    "status": "working",
-   "listed": 109,
+   "listed": 110,
    "fresh": 0
   },
   {
@@ -341,14 +341,14 @@
    "name": "Snowflake",
    "source": "ashby",
    "status": "working",
-   "listed": 372,
+   "listed": 370,
    "fresh": 0
   },
   {
    "name": "Zscaler",
    "source": "gh",
    "status": "working",
-   "listed": 371,
+   "listed": 370,
    "fresh": 0
   },
   {
@@ -425,7 +425,7 @@
    "name": "Notion",
    "source": "ashby",
    "status": "working",
-   "listed": 151,
+   "listed": 150,
    "fresh": 0
   },
   {
