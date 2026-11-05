@@ -76,6 +76,7 @@ def wd(spec, _):
             if not d or not d.get("jobPostings"): break
             if off == 0: total = d.get("total", 0)
             for j in d["jobPostings"]:
+                if not j.get("title") or not j.get("externalPath"): continue
                 po = j.get("postedOn", "")
                 m = re.search(r"(\d+)\+? Days", po)
                 days = int(m.group(1)) if m else (1 if "Yesterday" in po else 0)
@@ -89,6 +90,11 @@ def amazon(_, __):
             try: p = datetime.strptime(j["posted_date"], "%B %d, %Y").replace(tzinfo=timezone.utc)
             except Exception: p = None
             yield "Amazon", j["title"], j.get("location", ""), "https://www.amazon.jobs" + j["job_path"], p, " ".join(j.get(k) or "" for k in ("description", "basic_qualifications", "preferred_qualifications"))
+
+def safe(t):
+    try: return list(FN[t[0]](t[1], t[2]))
+    except Exception as e:
+        print("ERROR", t[2], repr(e)); failed.add(t[1]); return []
 
 FN = {"gh": gh, "lever": lever, "ashby": ashby, "wd": wd, "amazon": amazon}
 
@@ -122,7 +128,7 @@ json.dump(resolved, open("resolved.json", "w"))
 tasks += [(r[0], r[1], n) for n in cfg.get("names", []) if (r := resolved.get(n))]
 tasks.append(("amazon", "", "Amazon"))
 with ThreadPoolExecutor(10) as ex:
-    results = list(ex.map(lambda t: list(FN[t[0]](t[1], t[2])), tasks))
+    results = list(ex.map(safe, tasks))
 
 seen = load("seen.json", None)
 first_run = seen is None
