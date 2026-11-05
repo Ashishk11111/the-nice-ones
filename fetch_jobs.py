@@ -44,6 +44,7 @@ def classify(title, desc):
             if n: yrs.append(int(n.group(1)))
     mn = min(yrs) if yrs else None
     if mn is not None and mn >= 2 and not (sig and "2026" in sig.group(0)): return "no", f"{mn}+ yrs"
+    if mn == 1 and not sig: return "no", "1+ yrs"
     if sig: return "fresher", sig.group(0).strip()[:30]
     if mn is not None: return "fresher", f"{mn} yr exp"
     return "maybe", ""
@@ -116,6 +117,7 @@ def resolve(name):
 
 load = lambda f, d: json.load(open(f)) if os.path.exists(f) else d
 cfg, resolved, cls = load("companies.json", {}), load("resolved.json", {}), load("cls.json", {})
+if cls.get("_v") != 2: cls = {"_v": 2}
 tasks = [(k, s, s) for k, key in (("gh", "greenhouse"), ("lever", "lever"), ("ashby", "ashby")) for s in cfg.get(key, [])]
 tasks += [("wd", s, s.split("|")[0]) for s in cfg.get("workday", [])]
 for u in cfg.get("urls", []):
@@ -155,7 +157,7 @@ for company, title, loc, url, p, _ in cands:
     if url in new_urls and fit == "fresher": alert.append((company, title, loc, url, why))
 jobs.sort(key=lambda j: (j["fit"] != "fresher", -datetime.fromisoformat(j["posted"]).timestamp()))
 json.dump({"updated": now.isoformat(), "jobs": jobs}, open("jobs.json", "w"), indent=1)
-json.dump(seen, open("seen.json", "w")); json.dump({u: cls[u] for u in cls if u in done}, open("cls.json", "w"))
+json.dump(seen, open("seen.json", "w")); json.dump({"_v": 2, **{u: cls[u] for u in cls if u in done}}, open("cls.json", "w"))
 
 status = []
 for t, r in zip(tasks, results):
