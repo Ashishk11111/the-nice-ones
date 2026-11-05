@@ -1,12 +1,21 @@
 {
- "updated": "2026-11-05T00:02:52.483411+00:00",
+ "updated": "2026-11-05T07:30:35.652208+00:00",
  "jobs": [
   {
+   "company": "Amazon",
+   "title": "Data Engineer I, SPIV Data Engineering",
+   "location": "IN, KA, Bengaluru",
+   "url": "https://www.amazon.jobs/en/jobs/10597397/data-engineer-i-spiv-data-engineering",
+   "posted": "2026-11-05T00:00:00+00:00",
+   "fit": "fresher",
+   "why": "Engineer I"
+  },
+  {
    "company": "Salesforce",
-   "title": "Software Engineering, MTS (Backend)",
-   "location": "India - Hyderabad",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering--MTS--Backend---Infra-_JR350272",
-   "posted": "2026-11-05T00:02:52.483411+00:00",
+   "title": "Full-Stack Developer \u2014 AI-Native Engineering",
+   "location": "India - Bangalore",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Full-Stack-Developer---AI-Native-Engineering_JR359537",
+   "posted": "2026-11-05T07:30:35.652208+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -24,7 +33,7 @@
    "title": "Verification Engineer -  ARM Fabric Unit Level",
    "location": "2 Locations",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Verification-Engineer----ARM-Fabric-Unit-Level_JR2028794",
-   "posted": "2026-11-03T00:02:52.483411+00:00",
+   "posted": "2026-11-03T07:30:35.652208+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -34,15 +43,6 @@
    "location": "Bangalore, India",
    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8345505",
    "posted": "2026-11-02T09:55:44-05:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "GitLab",
-   "title": "Intermediate Data Engineer",
-   "location": "Bangalore, India",
-   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8924923002",
-   "posted": "2026-11-02T01:44:11-05:00",
    "fit": "maybe",
    "why": ""
   }
