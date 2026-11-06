@@ -1,14 +1,23 @@
 {
- "updated": "2026-11-06T08:48:51.120119+00:00",
+ "updated": "2026-11-06T16:29:44.893862+00:00",
  "jobs": [
   {
-   "company": "New Relic",
-   "title": "Software Engineer 1",
-   "location": "Hyderabad, India",
-   "url": "https://job-boards.greenhouse.io/newrelic/jobs/5467941008",
-   "posted": "2026-11-05T11:05:23-05:00",
+   "company": "Salesforce",
+   "title": "Software Engineering AMTS",
+   "location": "2 Locations",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-AMTS_JR356580",
+   "posted": "2026-11-06T16:29:44.893862+00:00",
    "fit": "fresher",
-   "why": "Engineer 1"
+   "why": "new grad"
+  },
+  {
+   "company": "Salesforce",
+   "title": "Product Accessibility Engineer",
+   "location": "2 Locations",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Product-Accessibility-Engineer_JR367595",
+   "posted": "2026-11-06T16:29:44.893862+00:00",
+   "fit": "fresher",
+   "why": "new grad"
   },
   {
    "company": "Amazon",
@@ -24,7 +33,7 @@
    "title": "Vice President, Software Engineering",
    "location": "2 Locations",
    "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Vice-President--Software-Engineering_R-276668",
-   "posted": "2026-11-06T08:48:51.120119+00:00",
+   "posted": "2026-11-06T16:29:44.893862+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -33,7 +42,7 @@
    "title": "Software Engineering PMTS (Apache, Kafka, Terraform)",
    "location": "India - Hyderabad",
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-PMTS_JR359744",
-   "posted": "2026-11-05T08:48:51.120119+00:00",
+   "posted": "2026-11-05T16:29:44.893862+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -42,7 +51,7 @@
    "title": "Full-Stack Developer \u2014 AI-Native Engineering",
    "location": "India - Bangalore",
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Full-Stack-Developer---AI-Native-Engineering_JR359537",
-   "posted": "2026-11-05T08:48:51.120119+00:00",
+   "posted": "2026-11-05T16:29:44.893862+00:00",
    "fit": "maybe",
    "why": ""
   },
