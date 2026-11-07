@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T08:01:27.679114+00:00",
+ "updated": "2026-11-07T15:16:36.792240+00:00",
  "companies": [
   {
    "name": "databricks",
@@ -33,7 +33,7 @@
    "name": "elastic",
    "source": "gh",
    "status": "working",
-   "listed": 423,
+   "listed": 425,
    "fresh": 0
   },
   {
@@ -137,57 +137,57 @@
   {
    "name": "Adobe",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
+   "status": "working",
+   "listed": 57,
    "fresh": 0
   },
   {
    "name": "Salesforce",
    "source": "wd",
    "status": "working",
-   "listed": 250,
+   "listed": 252,
    "fresh": 4
   },
   {
    "name": "NVIDIA",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
+   "status": "working",
+   "listed": 313,
    "fresh": 0
   },
   {
    "name": "Mastercard",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
+   "status": "working",
+   "listed": 279,
+   "fresh": 1
   },
   {
    "name": "Broadcom",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
+   "status": "working",
+   "listed": 5,
    "fresh": 0
   },
   {
    "name": "Autodesk",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
+   "status": "working",
+   "listed": 1,
    "fresh": 0
   },
   {
    "name": "Browserstack",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
+   "status": "working",
+   "listed": 36,
    "fresh": 0
   },
   {
    "name": "Sprinklr",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
+   "status": "working",
+   "listed": 24,
    "fresh": 0
   },
   {
@@ -229,7 +229,7 @@
    "name": "Figma",
    "source": "gh",
    "status": "working",
-   "listed": 144,
+   "listed": 145,
    "fresh": 0
   },
   {
@@ -306,7 +306,7 @@
    "name": "OpenAI",
    "source": "ashby",
    "status": "working",
-   "listed": 820,
+   "listed": 819,
    "fresh": 0
   },
   {
@@ -467,7 +467,7 @@
    "name": "Elastic",
    "source": "gh",
    "status": "working",
-   "listed": 423,
+   "listed": 425,
    "fresh": 0
   },
   {
