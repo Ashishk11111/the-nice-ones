@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T15:16:36.792240+00:00",
+ "updated": "2026-11-07T19:44:25.519272+00:00",
  "companies": [
   {
    "name": "databricks",
@@ -61,7 +61,7 @@
    "name": "stripe",
    "source": "gh",
    "status": "working",
-   "listed": 765,
+   "listed": 766,
    "fresh": 0
   },
   {
@@ -145,8 +145,8 @@
    "name": "Salesforce",
    "source": "wd",
    "status": "working",
-   "listed": 252,
-   "fresh": 4
+   "listed": 250,
+   "fresh": 3
   },
   {
    "name": "NVIDIA",
@@ -159,7 +159,7 @@
    "name": "Mastercard",
    "source": "wd",
    "status": "working",
-   "listed": 279,
+   "listed": 277,
    "fresh": 1
   },
   {
@@ -202,7 +202,7 @@
    "source": "gh",
    "status": "working",
    "listed": 248,
-   "fresh": 1
+   "fresh": 0
   },
   {
    "name": "Pinterest",
@@ -257,7 +257,7 @@
    "name": "Samsara",
    "source": "gh",
    "status": "working",
-   "listed": 315,
+   "listed": 316,
    "fresh": 0
   },
   {
@@ -341,7 +341,7 @@
    "name": "Snowflake",
    "source": "ashby",
    "status": "working",
-   "listed": 371,
+   "listed": 372,
    "fresh": 0
   },
   {
