@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-07T01:27:27.332416+00:00",
+ "updated": "2026-11-07T08:01:27.679114+00:00",
  "companies": [
   {
    "name": "databricks",
    "source": "gh",
    "status": "working",
-   "listed": 923,
+   "listed": 924,
    "fresh": 0
   },
   {
@@ -75,7 +75,7 @@
    "name": "coinbase",
    "source": "gh",
    "status": "working",
-   "listed": 285,
+   "listed": 284,
    "fresh": 0
   },
   {
@@ -137,8 +137,8 @@
   {
    "name": "Adobe",
    "source": "wd",
-   "status": "working",
-   "listed": 57,
+   "status": "failed",
+   "listed": 0,
    "fresh": 0
   },
   {
@@ -151,43 +151,43 @@
   {
    "name": "NVIDIA",
    "source": "wd",
-   "status": "working",
-   "listed": 313,
+   "status": "failed",
+   "listed": 0,
    "fresh": 0
   },
   {
    "name": "Mastercard",
    "source": "wd",
-   "status": "working",
-   "listed": 279,
-   "fresh": 1
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
   },
   {
    "name": "Broadcom",
    "source": "wd",
-   "status": "working",
-   "listed": 5,
+   "status": "failed",
+   "listed": 0,
    "fresh": 0
   },
   {
    "name": "Autodesk",
    "source": "wd",
-   "status": "working",
-   "listed": 1,
+   "status": "failed",
+   "listed": 0,
    "fresh": 0
   },
   {
    "name": "Browserstack",
    "source": "wd",
-   "status": "working",
-   "listed": 36,
+   "status": "failed",
+   "listed": 0,
    "fresh": 0
   },
   {
    "name": "Sprinklr",
    "source": "wd",
-   "status": "working",
-   "listed": 24,
+   "status": "failed",
+   "listed": 0,
    "fresh": 0
   },
   {
@@ -299,7 +299,7 @@
    "name": "Anthropic",
    "source": "gh",
    "status": "working",
-   "listed": 678,
+   "listed": 675,
    "fresh": 0
   },
   {
