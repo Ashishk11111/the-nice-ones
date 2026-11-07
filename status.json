@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-07T19:44:25.519272+00:00",
+ "updated": "2026-11-07T23:15:36.733537+00:00",
  "companies": [
   {
    "name": "databricks",
    "source": "gh",
    "status": "working",
-   "listed": 924,
+   "listed": 922,
    "fresh": 0
   },
   {
@@ -257,7 +257,7 @@
    "name": "Samsara",
    "source": "gh",
    "status": "working",
-   "listed": 316,
+   "listed": 315,
    "fresh": 0
   },
   {
