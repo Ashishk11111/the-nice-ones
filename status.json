@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T16:51:33.578705+00:00",
+ "updated": "2026-11-08T20:53:43.380575+00:00",
  "companies": [
   {
    "name": "databricks",
@@ -33,7 +33,7 @@
    "name": "elastic",
    "source": "gh",
    "status": "working",
-   "listed": 425,
+   "listed": 426,
    "fresh": 0
   },
   {
@@ -194,14 +194,14 @@
    "name": "Adobe",
    "source": "wd",
    "status": "working",
-   "listed": 57,
+   "listed": 55,
    "fresh": 0
   },
   {
    "name": "Salesforce",
    "source": "wd",
    "status": "working",
-   "listed": 250,
+   "listed": 247,
    "fresh": 3
   },
   {
@@ -271,7 +271,7 @@
    "name": "Philips",
    "source": "wd",
    "status": "working",
-   "listed": 97,
+   "listed": 94,
    "fresh": 0
   },
   {
@@ -341,7 +341,7 @@
    "name": "Hitachi",
    "source": "wd",
    "status": "working",
-   "listed": 617,
+   "listed": 614,
    "fresh": 3
   },
   {
@@ -355,7 +355,7 @@
    "name": "Jda",
    "source": "wd",
    "status": "working",
-   "listed": 138,
+   "listed": 136,
    "fresh": 0
   },
   {
@@ -439,7 +439,7 @@
    "name": "Samsara",
    "source": "gh",
    "status": "working",
-   "listed": 315,
+   "listed": 314,
    "fresh": 0
   },
   {
@@ -530,7 +530,7 @@
    "name": "Zscaler",
    "source": "gh",
    "status": "working",
-   "listed": 375,
+   "listed": 376,
    "fresh": 0
   },
   {
@@ -544,7 +544,7 @@
    "name": "New Relic",
    "source": "gh",
    "status": "working",
-   "listed": 47,
+   "listed": 46,
    "fresh": 0
   },
   {
@@ -586,7 +586,7 @@
    "name": "Pure Storage",
    "source": "gh",
    "status": "working",
-   "listed": 358,
+   "listed": 357,
    "fresh": 0
   },
   {
@@ -649,7 +649,7 @@
    "name": "Elastic",
    "source": "gh",
    "status": "working",
-   "listed": 425,
+   "listed": 426,
    "fresh": 0
   },
   {
