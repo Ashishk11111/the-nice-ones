@@ -13,7 +13,15 @@
   "coinbase",
   "fivetran",
   "scaleai",
-  "razorpaysoftwareprivatelimited"
+  "razorpaysoftwareprivatelimited",
+  "karat",
+  "scopely",
+  "commerceiq",
+  "devrev",
+  "dunnhumby",
+  "aspire",
+  "speechify",
+  "headoutcareers"
  ],
  "lever": [
   "cred",
@@ -81,6 +89,24 @@
  ],
  "urls": [
   "https://browserstack.wd3.myworkdayjobs.com/External",
-  "https://sprinklr.wd1.myworkdayjobs.com/careers"
+  "https://sprinklr.wd1.myworkdayjobs.com/careers",
+  "https://walmart.wd504.myworkdayjobs.com/WalmartExternal",
+  "https://zendesk.wd1.myworkdayjobs.com/en-US/zendesk",
+  "https://expedia.wd5.myworkdayjobs.com/search",
+  "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
+  "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers",
+  "https://db.wd3.myworkdayjobs.com/DBWebsite",
+  "https://mavenir.wd1.myworkdayjobs.com/en-US/Mavenir_Careers",
+  "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers",
+  "https://flexerasoftware.wd1.myworkdayjobs.com/en-US/FlexeraSoftware",
+  "https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS",
+  "https://wabtec.wd1.myworkdayjobs.com/wabtec_careers",
+  "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion",
+  "https://ciena.wd5.myworkdayjobs.com/en-US/Careers",
+  "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi",
+  "https://fico.wd1.myworkdayjobs.com/en-US/External",
+  "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers",
+  "https://genesys.wd1.myworkdayjobs.com/en-US/Genesys",
+  "https://clarivate.wd3.myworkdayjobs.com/en-US/Clarivate_Careers"
  ]
 }
