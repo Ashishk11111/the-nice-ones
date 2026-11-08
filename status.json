@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T23:15:36.733537+00:00",
+ "updated": "2026-11-08T03:28:14.940908+00:00",
  "companies": [
   {
    "name": "databricks",
@@ -12,7 +12,7 @@
    "name": "mongodb",
    "source": "gh",
    "status": "working",
-   "listed": 375,
+   "listed": 374,
    "fresh": 0
   },
   {
@@ -100,10 +100,66 @@
    "fresh": 0
   },
   {
+   "name": "karat",
+   "source": "gh",
+   "status": "working",
+   "listed": 12,
+   "fresh": 0
+  },
+  {
+   "name": "scopely",
+   "source": "gh",
+   "status": "working",
+   "listed": 167,
+   "fresh": 0
+  },
+  {
+   "name": "commerceiq",
+   "source": "gh",
+   "status": "working",
+   "listed": 17,
+   "fresh": 0
+  },
+  {
+   "name": "devrev",
+   "source": "gh",
+   "status": "working",
+   "listed": 40,
+   "fresh": 0
+  },
+  {
+   "name": "dunnhumby",
+   "source": "gh",
+   "status": "working",
+   "listed": 60,
+   "fresh": 0
+  },
+  {
+   "name": "aspire",
+   "source": "gh",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "speechify",
+   "source": "gh",
+   "status": "working",
+   "listed": 738,
+   "fresh": 0
+  },
+  {
+   "name": "headoutcareers",
+   "source": "gh",
+   "status": "working",
+   "listed": 18,
+   "fresh": 0
+  },
+  {
    "name": "cred",
    "source": "lever",
    "status": "working",
-   "listed": 13,
+   "listed": 14,
    "fresh": 0
   },
   {
@@ -191,10 +247,136 @@
    "fresh": 0
   },
   {
+   "name": "Walmart",
+   "source": "wd",
+   "status": "working",
+   "listed": 639,
+   "fresh": 0
+  },
+  {
+   "name": "Zendesk",
+   "source": "wd",
+   "status": "working",
+   "listed": 30,
+   "fresh": 1
+  },
+  {
+   "name": "Expedia",
+   "source": "wd",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Philips",
+   "source": "wd",
+   "status": "working",
+   "listed": 97,
+   "fresh": 0
+  },
+  {
+   "name": "Motorolasolutions",
+   "source": "wd",
+   "status": "working",
+   "listed": 114,
+   "fresh": 0
+  },
+  {
+   "name": "Db",
+   "source": "wd",
+   "status": "working",
+   "listed": 185,
+   "fresh": 1
+  },
+  {
+   "name": "Mavenir",
+   "source": "wd",
+   "status": "working",
+   "listed": 8,
+   "fresh": 0
+  },
+  {
+   "name": "Aveva",
+   "source": "wd",
+   "status": "working",
+   "listed": 143,
+   "fresh": 0
+  },
+  {
+   "name": "Flexerasoftware",
+   "source": "wd",
+   "status": "working",
+   "listed": 14,
+   "fresh": 0
+  },
+  {
+   "name": "Aptiv",
+   "source": "wd",
+   "status": "working",
+   "listed": 157,
+   "fresh": 1
+  },
+  {
+   "name": "Wabtec",
+   "source": "wd",
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Transunion",
+   "source": "wd",
+   "status": "working",
+   "listed": 40,
+   "fresh": 1
+  },
+  {
+   "name": "Ciena",
+   "source": "wd",
+   "status": "working",
+   "listed": 9,
+   "fresh": 0
+  },
+  {
+   "name": "Hitachi",
+   "source": "wd",
+   "status": "working",
+   "listed": 617,
+   "fresh": 5
+  },
+  {
+   "name": "Fico",
+   "source": "wd",
+   "status": "no jobs",
+   "listed": 0,
+   "fresh": 0
+  },
+  {
+   "name": "Jda",
+   "source": "wd",
+   "status": "working",
+   "listed": 138,
+   "fresh": 0
+  },
+  {
+   "name": "Genesys",
+   "source": "wd",
+   "status": "working",
+   "listed": 42,
+   "fresh": 2
+  },
+  {
+   "name": "Clarivate",
+   "source": "wd",
+   "status": "working",
+   "listed": 7,
+   "fresh": 0
+  },
+  {
    "name": "Datadog",
    "source": "gh",
    "status": "working",
-   "listed": 400,
+   "listed": 401,
    "fresh": 0
   },
   {
@@ -257,7 +439,7 @@
    "name": "Samsara",
    "source": "gh",
    "status": "working",
-   "listed": 315,
+   "listed": 316,
    "fresh": 0
   },
   {
@@ -306,7 +488,7 @@
    "name": "OpenAI",
    "source": "ashby",
    "status": "working",
-   "listed": 819,
+   "listed": 818,
    "fresh": 0
   },
   {
@@ -510,7 +692,7 @@
    "source": "amazon",
    "status": "working",
    "listed": 100,
-   "fresh": 1
+   "fresh": 0
   }
  ]
 }
