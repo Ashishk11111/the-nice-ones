@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T10:54:14.004828+00:00",
+ "updated": "2026-11-08T16:51:33.578705+00:00",
  "companies": [
   {
    "name": "databricks",
@@ -75,7 +75,7 @@
    "name": "coinbase",
    "source": "gh",
    "status": "working",
-   "listed": 284,
+   "listed": 283,
    "fresh": 0
   },
   {
@@ -110,7 +110,7 @@
    "name": "scopely",
    "source": "gh",
    "status": "working",
-   "listed": 167,
+   "listed": 168,
    "fresh": 0
   },
   {
@@ -439,7 +439,7 @@
    "name": "Samsara",
    "source": "gh",
    "status": "working",
-   "listed": 316,
+   "listed": 315,
    "fresh": 0
   },
   {
@@ -488,7 +488,7 @@
    "name": "OpenAI",
    "source": "ashby",
    "status": "working",
-   "listed": 818,
+   "listed": 816,
    "fresh": 0
   },
   {
