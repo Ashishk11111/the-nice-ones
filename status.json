@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T03:28:14.940908+00:00",
+ "updated": "2026-11-08T10:54:14.004828+00:00",
  "companies": [
   {
    "name": "databricks",
@@ -342,7 +342,7 @@
    "source": "wd",
    "status": "working",
    "listed": 617,
-   "fresh": 5
+   "fresh": 3
   },
   {
    "name": "Fico",
@@ -363,7 +363,7 @@
    "source": "wd",
    "status": "working",
    "listed": 42,
-   "fresh": 2
+   "fresh": 1
   },
   {
    "name": "Clarivate",
@@ -418,7 +418,7 @@
    "name": "Lyft",
    "source": "gh",
    "status": "working",
-   "listed": 167,
+   "listed": 166,
    "fresh": 0
   },
   {
