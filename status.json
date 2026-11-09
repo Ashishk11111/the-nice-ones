@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-09T00:19:45.790200+00:00",
+ "updated": "2026-11-09T07:27:52.064671+00:00",
  "companies": [
   {
    "name": "databricks",
    "source": "gh",
    "status": "working",
-   "listed": 922,
+   "listed": 921,
    "fresh": 0
   },
   {
@@ -26,7 +26,7 @@
    "name": "twilio",
    "source": "gh",
    "status": "working",
-   "listed": 128,
+   "listed": 129,
    "fresh": 0
   },
   {
@@ -40,7 +40,7 @@
    "name": "okta",
    "source": "gh",
    "status": "working",
-   "listed": 375,
+   "listed": 376,
    "fresh": 0
   },
   {
@@ -61,7 +61,7 @@
    "name": "stripe",
    "source": "gh",
    "status": "working",
-   "listed": 766,
+   "listed": 768,
    "fresh": 0
   },
   {
@@ -82,7 +82,7 @@
    "name": "fivetran",
    "source": "gh",
    "status": "working",
-   "listed": 167,
+   "listed": 168,
    "fresh": 0
   },
   {
@@ -131,7 +131,7 @@
    "name": "dunnhumby",
    "source": "gh",
    "status": "working",
-   "listed": 60,
+   "listed": 59,
    "fresh": 0
   },
   {
@@ -250,15 +250,15 @@
    "name": "Walmart",
    "source": "wd",
    "status": "working",
-   "listed": 639,
+   "listed": 629,
    "fresh": 0
   },
   {
    "name": "Zendesk",
    "source": "wd",
    "status": "working",
-   "listed": 30,
-   "fresh": 1
+   "listed": 29,
+   "fresh": 0
   },
   {
    "name": "Expedia",
@@ -285,7 +285,7 @@
    "name": "Db",
    "source": "wd",
    "status": "working",
-   "listed": 185,
+   "listed": 186,
    "fresh": 1
   },
   {
@@ -299,7 +299,7 @@
    "name": "Aveva",
    "source": "wd",
    "status": "working",
-   "listed": 143,
+   "listed": 139,
    "fresh": 0
   },
   {
@@ -327,7 +327,7 @@
    "name": "Transunion",
    "source": "wd",
    "status": "working",
-   "listed": 40,
+   "listed": 39,
    "fresh": 1
   },
   {
@@ -376,14 +376,14 @@
    "name": "Datadog",
    "source": "gh",
    "status": "working",
-   "listed": 401,
+   "listed": 402,
    "fresh": 0
   },
   {
    "name": "GitLab",
    "source": "gh",
    "status": "working",
-   "listed": 248,
+   "listed": 250,
    "fresh": 0
   },
   {
@@ -411,7 +411,7 @@
    "name": "Figma",
    "source": "gh",
    "status": "working",
-   "listed": 145,
+   "listed": 144,
    "fresh": 0
   },
   {
@@ -481,14 +481,14 @@
    "name": "Anthropic",
    "source": "gh",
    "status": "working",
-   "listed": 675,
+   "listed": 677,
    "fresh": 0
   },
   {
    "name": "OpenAI",
    "source": "ashby",
    "status": "working",
-   "listed": 816,
+   "listed": 813,
    "fresh": 0
   },
   {
@@ -523,7 +523,7 @@
    "name": "Snowflake",
    "source": "ashby",
    "status": "working",
-   "listed": 372,
+   "listed": 371,
    "fresh": 0
   },
   {
@@ -544,7 +544,7 @@
    "name": "New Relic",
    "source": "gh",
    "status": "working",
-   "listed": 46,
+   "listed": 47,
    "fresh": 0
   },
   {
@@ -586,7 +586,7 @@
    "name": "Pure Storage",
    "source": "gh",
    "status": "working",
-   "listed": 357,
+   "listed": 359,
    "fresh": 0
   },
   {
@@ -656,7 +656,7 @@
    "name": "Sumo Logic",
    "source": "gh",
    "status": "working",
-   "listed": 18,
+   "listed": 19,
    "fresh": 0
   },
   {
