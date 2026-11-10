@@ -1,57 +1,48 @@
 {
- "updated": "2026-11-10T01:19:32.949257+00:00",
+ "updated": "2026-11-10T08:58:16.120867+00:00",
  "jobs": [
   {
-   "company": "Hitachi",
-   "title": "Backend Software Development Engineer \u2013 Expert",
-   "location": "(DEAI HV) IN Bengaluru - Residency Road",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/DEAI-HV-IN-Bengaluru---Residency-Road/Software-Engineer-Expert_R0132295",
-   "posted": "2026-11-10T01:19:32.949257+00:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Mastercard",
-   "title": "Vice President, Software Engineering",
-   "location": "2 Locations",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Vice-President--Software-Engineering_R-276668",
-   "posted": "2026-11-07T01:19:32.949257+00:00",
+   "company": "Salesforce",
+   "title": "Software Engineer SMTS",
+   "location": "India - Hyderabad",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineer-SMTS_JR338173",
+   "posted": "2026-11-10T08:58:16.120867+00:00",
    "fit": "maybe",
    "why": ""
   },
   {
    "company": "Db",
-   "title": "TDI HUBBLE Agile Developer, AS",
-   "location": "Mumbai, Nirlon Knowledge Park",
-   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Nirlon-Knowledge-Park/TDI-HUBBLE-Agile-Developer--AS_R0424787",
-   "posted": "2026-11-07T01:19:32.949257+00:00",
+   "title": "SAP CML Test Engineer",
+   "location": "Pune - Margarpatta",
+   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/SAP-CML-Test-Engineer_R0435383",
+   "posted": "2026-11-10T08:58:16.120867+00:00",
    "fit": "maybe",
    "why": ""
   },
   {
    "company": "Hitachi",
-   "title": "Power Apps, Power Automate Developer",
+   "title": "Project Engineer - Structural Steel Engineer",
    "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Power-Apps--Power-Automate-Developer_R0144242",
-   "posted": "2026-11-07T01:19:32.949257+00:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Hitachi",
-   "title": "R&D Project Quality Engineer",
-   "location": "Maneja, Gujarat, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Maneja-Gujarat-India/R-D-Project-Quality-Engineer_R0129275",
-   "posted": "2026-11-07T01:19:32.949257+00:00",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineer---Structural-Steel-Engineer_R0151244",
+   "posted": "2026-11-10T08:58:16.120867+00:00",
    "fit": "maybe",
    "why": ""
   },
   {
    "company": "Genesys",
-   "title": "AV Design & Collaboration Engineer",
-   "location": "Chennai, India",
-   "url": "https://genesys.wd1.myworkdayjobs.com/Genesys/job/Chennai-India/AV-Design---Collaboration-Engineer_JR112929",
-   "posted": "2026-11-07T01:19:32.949257+00:00",
+   "title": "Application Developer",
+   "location": "Tamil Nadu, India",
+   "url": "https://genesys.wd1.myworkdayjobs.com/Genesys/job/Tamil-Nadu-India/Application-Developer_JR112952",
+   "posted": "2026-11-10T08:58:16.120867+00:00",
+   "fit": "maybe",
+   "why": ""
+  },
+  {
+   "company": "Hitachi",
+   "title": "Backend Software Development Engineer \u2013 Expert",
+   "location": "(DEAI HV) IN Bengaluru - Residency Road",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/DEAI-HV-IN-Bengaluru---Residency-Road/Software-Engineer-Expert_R0132295",
+   "posted": "2026-11-09T08:58:16.120867+00:00",
    "fit": "maybe",
    "why": ""
   }
