@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-12T22:58:48.018862+00:00",
+ "updated": "2026-11-13T03:12:03.068329+00:00",
  "companies": [
   {
    "name": "databricks",
    "source": "gh",
    "status": "working",
-   "listed": 906,
+   "listed": 907,
    "fresh": 0
   },
   {
    "name": "mongodb",
    "source": "gh",
    "status": "working",
-   "listed": 385,
+   "listed": 386,
    "fresh": 0
   },
   {
    "name": "cloudflare",
    "source": "gh",
    "status": "working",
-   "listed": 481,
+   "listed": 480,
    "fresh": 0
   },
   {
@@ -40,7 +40,7 @@
    "name": "okta",
    "source": "gh",
    "status": "working",
-   "listed": 369,
+   "listed": 370,
    "fresh": 0
   },
   {
@@ -61,21 +61,21 @@
    "name": "stripe",
    "source": "gh",
    "status": "working",
-   "listed": 786,
+   "listed": 787,
    "fresh": 0
   },
   {
    "name": "airbnb",
    "source": "gh",
    "status": "working",
-   "listed": 216,
+   "listed": 217,
    "fresh": 0
   },
   {
    "name": "coinbase",
    "source": "gh",
    "status": "working",
-   "listed": 272,
+   "listed": 271,
    "fresh": 0
   },
   {
@@ -201,7 +201,7 @@
    "name": "Salesforce",
    "source": "wd",
    "status": "working",
-   "listed": 262,
+   "listed": 264,
    "fresh": 3
   },
   {
@@ -278,7 +278,7 @@
    "name": "Motorolasolutions",
    "source": "wd",
    "status": "working",
-   "listed": 115,
+   "listed": 119,
    "fresh": 0
   },
   {
@@ -390,14 +390,14 @@
    "name": "Pinterest",
    "source": "gh",
    "status": "working",
-   "listed": 165,
+   "listed": 166,
    "fresh": 0
   },
   {
    "name": "Reddit",
    "source": "gh",
    "status": "working",
-   "listed": 149,
+   "listed": 147,
    "fresh": 0
   },
   {
@@ -411,14 +411,14 @@
    "name": "Figma",
    "source": "gh",
    "status": "working",
-   "listed": 142,
+   "listed": 143,
    "fresh": 0
   },
   {
    "name": "Lyft",
    "source": "gh",
    "status": "working",
-   "listed": 152,
+   "listed": 151,
    "fresh": 0
   },
   {
@@ -432,21 +432,21 @@
    "name": "Asana",
    "source": "gh",
    "status": "working",
-   "listed": 109,
+   "listed": 108,
    "fresh": 0
   },
   {
    "name": "Samsara",
    "source": "gh",
    "status": "working",
-   "listed": 307,
+   "listed": 309,
    "fresh": 0
   },
   {
    "name": "Robinhood",
    "source": "gh",
    "status": "working",
-   "listed": 158,
+   "listed": 160,
    "fresh": 0
   },
   {
@@ -481,21 +481,21 @@
    "name": "Anthropic",
    "source": "gh",
    "status": "working",
-   "listed": 672,
+   "listed": 673,
    "fresh": 0
   },
   {
    "name": "OpenAI",
    "source": "ashby",
    "status": "working",
-   "listed": 825,
+   "listed": 827,
    "fresh": 0
   },
   {
    "name": "Perplexity",
    "source": "ashby",
    "status": "working",
-   "listed": 135,
+   "listed": 142,
    "fresh": 0
   },
   {
@@ -523,14 +523,14 @@
    "name": "Snowflake",
    "source": "ashby",
    "status": "working",
-   "listed": 377,
+   "listed": 379,
    "fresh": 0
   },
   {
    "name": "Zscaler",
    "source": "gh",
    "status": "working",
-   "listed": 375,
+   "listed": 376,
    "fresh": 0
   },
   {
@@ -544,14 +544,14 @@
    "name": "New Relic",
    "source": "gh",
    "status": "working",
-   "listed": 41,
+   "listed": 42,
    "fresh": 0
   },
   {
    "name": "Netskope",
    "source": "gh",
    "status": "working",
-   "listed": 120,
+   "listed": 121,
    "fresh": 0
   },
   {
@@ -607,7 +607,7 @@
    "name": "Notion",
    "source": "ashby",
    "status": "working",
-   "listed": 162,
+   "listed": 160,
    "fresh": 0
   },
   {
