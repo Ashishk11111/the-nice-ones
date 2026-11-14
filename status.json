@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T14:38:40.581740+00:00",
+ "updated": "2026-11-14T19:36:34.519195+00:00",
  "companies": [
   {
    "name": "databricks",
@@ -12,7 +12,7 @@
    "name": "mongodb",
    "source": "gh",
    "status": "working",
-   "listed": 391,
+   "listed": 390,
    "fresh": 0
   },
   {
@@ -96,7 +96,7 @@
    "name": "razorpaysoftwareprivatelimited",
    "source": "gh",
    "status": "working",
-   "listed": 26,
+   "listed": 25,
    "fresh": 0
   },
   {
@@ -193,43 +193,43 @@
   {
    "name": "Adobe",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
+   "status": "working",
+   "listed": 51,
    "fresh": 0
   },
   {
    "name": "Salesforce",
    "source": "wd",
    "status": "working",
-   "listed": 276,
+   "listed": 274,
    "fresh": 2
   },
   {
    "name": "NVIDIA",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
+   "status": "working",
+   "listed": 302,
    "fresh": 0
   },
   {
    "name": "Mastercard",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
+   "status": "working",
+   "listed": 255,
    "fresh": 0
   },
   {
    "name": "Broadcom",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
+   "status": "working",
+   "listed": 5,
    "fresh": 0
   },
   {
    "name": "Autodesk",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
+   "status": "working",
+   "listed": 1,
    "fresh": 0
   },
   {
@@ -242,22 +242,22 @@
   {
    "name": "Sprinklr",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
+   "status": "working",
+   "listed": 21,
    "fresh": 0
   },
   {
    "name": "Walmart",
    "source": "wd",
    "status": "working",
-   "listed": 625,
+   "listed": 621,
    "fresh": 0
   },
   {
    "name": "Zendesk",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
+   "status": "working",
+   "listed": 28,
    "fresh": 0
   },
   {
@@ -271,14 +271,14 @@
    "name": "Philips",
    "source": "wd",
    "status": "working",
-   "listed": 105,
+   "listed": 104,
    "fresh": 0
   },
   {
    "name": "Motorolasolutions",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
+   "status": "working",
+   "listed": 121,
    "fresh": 0
   },
   {
@@ -291,8 +291,8 @@
   {
    "name": "Mavenir",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
+   "status": "working",
+   "listed": 16,
    "fresh": 0
   },
   {
@@ -305,8 +305,8 @@
   {
    "name": "Flexerasoftware",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
+   "status": "working",
+   "listed": 17,
    "fresh": 0
   },
   {
@@ -327,27 +327,27 @@
    "name": "Transunion",
    "source": "wd",
    "status": "working",
-   "listed": 51,
+   "listed": 47,
    "fresh": 0
   },
   {
    "name": "Ciena",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
+   "status": "working",
+   "listed": 12,
    "fresh": 0
   },
   {
    "name": "Hitachi",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
+   "status": "working",
+   "listed": 631,
+   "fresh": 26
   },
   {
    "name": "Fico",
    "source": "wd",
-   "status": "failed",
+   "status": "no jobs",
    "listed": 0,
    "fresh": 0
   },
@@ -361,8 +361,8 @@
   {
    "name": "Genesys",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
+   "status": "working",
+   "listed": 53,
    "fresh": 0
   },
   {
@@ -439,7 +439,7 @@
    "name": "Samsara",
    "source": "gh",
    "status": "working",
-   "listed": 314,
+   "listed": 317,
    "fresh": 0
   },
   {
@@ -488,7 +488,7 @@
    "name": "OpenAI",
    "source": "ashby",
    "status": "working",
-   "listed": 838,
+   "listed": 839,
    "fresh": 0
   },
   {
@@ -586,7 +586,7 @@
    "name": "Pure Storage",
    "source": "gh",
    "status": "working",
-   "listed": 375,
+   "listed": 376,
    "fresh": 2
   },
   {
