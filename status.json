@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:12:29.372838+00:00",
+ "updated": "2026-11-14T14:38:40.581740+00:00",
  "companies": [
   {
    "name": "databricks",
@@ -124,7 +124,7 @@
    "name": "devrev",
    "source": "gh",
    "status": "working",
-   "listed": 38,
+   "listed": 37,
    "fresh": 0
   },
   {
@@ -201,8 +201,8 @@
    "name": "Salesforce",
    "source": "wd",
    "status": "working",
-   "listed": 278,
-   "fresh": 3
+   "listed": 276,
+   "fresh": 2
   },
   {
    "name": "NVIDIA",
@@ -235,8 +235,8 @@
   {
    "name": "Browserstack",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
+   "status": "working",
+   "listed": 46,
    "fresh": 0
   },
   {
@@ -250,7 +250,7 @@
    "name": "Walmart",
    "source": "wd",
    "status": "working",
-   "listed": 619,
+   "listed": 625,
    "fresh": 0
   },
   {
@@ -270,8 +270,8 @@
   {
    "name": "Philips",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
+   "status": "working",
+   "listed": 105,
    "fresh": 0
   },
   {
@@ -284,9 +284,9 @@
   {
    "name": "Db",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
+   "status": "working",
+   "listed": 196,
+   "fresh": 1
   },
   {
    "name": "Mavenir",
@@ -298,8 +298,8 @@
   {
    "name": "Aveva",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
+   "status": "working",
+   "listed": 133,
    "fresh": 0
   },
   {
@@ -312,9 +312,9 @@
   {
    "name": "Aptiv",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
-   "fresh": 0
+   "status": "working",
+   "listed": 177,
+   "fresh": 1
   },
   {
    "name": "Wabtec",
@@ -326,8 +326,8 @@
   {
    "name": "Transunion",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
+   "status": "working",
+   "listed": 51,
    "fresh": 0
   },
   {
@@ -354,8 +354,8 @@
   {
    "name": "Jda",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
+   "status": "working",
+   "listed": 131,
    "fresh": 0
   },
   {
@@ -368,8 +368,8 @@
   {
    "name": "Clarivate",
    "source": "wd",
-   "status": "failed",
-   "listed": 0,
+   "status": "working",
+   "listed": 9,
    "fresh": 0
   },
   {
@@ -439,7 +439,7 @@
    "name": "Samsara",
    "source": "gh",
    "status": "working",
-   "listed": 313,
+   "listed": 314,
    "fresh": 0
   },
   {
@@ -481,7 +481,7 @@
    "name": "Anthropic",
    "source": "gh",
    "status": "working",
-   "listed": 670,
+   "listed": 669,
    "fresh": 0
   },
   {
