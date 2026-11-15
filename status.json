@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-15T03:52:45.023810+00:00",
+ "updated": "2026-11-15T11:40:00.911539+00:00",
  "companies": [
   {
    "name": "databricks",
    "source": "gh",
    "status": "working",
-   "listed": 896,
+   "listed": 895,
    "fresh": 0
   },
   {
@@ -188,7 +188,7 @@
    "source": "ashby",
    "status": "working",
    "listed": 50,
-   "fresh": 1
+   "fresh": 0
   },
   {
    "name": "Adobe",
@@ -201,14 +201,14 @@
    "name": "Salesforce",
    "source": "wd",
    "status": "working",
-   "listed": 274,
-   "fresh": 2
+   "listed": 275,
+   "fresh": 1
   },
   {
    "name": "NVIDIA",
    "source": "wd",
    "status": "working",
-   "listed": 302,
+   "listed": 301,
    "fresh": 0
   },
   {
@@ -250,7 +250,7 @@
    "name": "Walmart",
    "source": "wd",
    "status": "working",
-   "listed": 623,
+   "listed": 615,
    "fresh": 0
   },
   {
@@ -342,7 +342,7 @@
    "source": "wd",
    "status": "working",
    "listed": 631,
-   "fresh": 26
+   "fresh": 24
   },
   {
    "name": "Fico",
@@ -383,7 +383,7 @@
    "name": "GitLab",
    "source": "gh",
    "status": "working",
-   "listed": 251,
+   "listed": 254,
    "fresh": 0
   },
   {
@@ -481,14 +481,14 @@
    "name": "Anthropic",
    "source": "gh",
    "status": "working",
-   "listed": 669,
+   "listed": 668,
    "fresh": 0
   },
   {
    "name": "OpenAI",
    "source": "ashby",
    "status": "working",
-   "listed": 839,
+   "listed": 840,
    "fresh": 0
   },
   {
@@ -587,7 +587,7 @@
    "source": "gh",
    "status": "working",
    "listed": 376,
-   "fresh": 2
+   "fresh": 0
   },
   {
    "name": "Confluent",
