@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T11:40:00.911539+00:00",
+ "updated": "2026-11-15T18:14:09.828696+00:00",
  "companies": [
   {
    "name": "databricks",
@@ -40,14 +40,14 @@
    "name": "okta",
    "source": "gh",
    "status": "working",
-   "listed": 362,
+   "listed": 361,
    "fresh": 0
   },
   {
    "name": "rubrik",
    "source": "gh",
    "status": "working",
-   "listed": 182,
+   "listed": 183,
    "fresh": 0
   },
   {
@@ -68,7 +68,7 @@
    "name": "airbnb",
    "source": "gh",
    "status": "working",
-   "listed": 214,
+   "listed": 213,
    "fresh": 0
   },
   {
@@ -201,7 +201,7 @@
    "name": "Salesforce",
    "source": "wd",
    "status": "working",
-   "listed": 275,
+   "listed": 276,
    "fresh": 1
   },
   {
@@ -250,7 +250,7 @@
    "name": "Walmart",
    "source": "wd",
    "status": "working",
-   "listed": 615,
+   "listed": 623,
    "fresh": 0
   },
   {
@@ -313,7 +313,7 @@
    "name": "Aptiv",
    "source": "wd",
    "status": "working",
-   "listed": 177,
+   "listed": 179,
    "fresh": 1
   },
   {
@@ -439,7 +439,7 @@
    "name": "Samsara",
    "source": "gh",
    "status": "working",
-   "listed": 319,
+   "listed": 317,
    "fresh": 0
   },
   {
@@ -481,14 +481,14 @@
    "name": "Anthropic",
    "source": "gh",
    "status": "working",
-   "listed": 668,
+   "listed": 667,
    "fresh": 0
   },
   {
    "name": "OpenAI",
    "source": "ashby",
    "status": "working",
-   "listed": 840,
+   "listed": 837,
    "fresh": 0
   },
   {
