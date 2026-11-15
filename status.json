@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T23:31:19.065832+00:00",
+ "updated": "2026-11-15T03:52:45.023810+00:00",
  "companies": [
   {
    "name": "databricks",
@@ -61,7 +61,7 @@
    "name": "stripe",
    "source": "gh",
    "status": "working",
-   "listed": 786,
+   "listed": 785,
    "fresh": 0
   },
   {
@@ -250,7 +250,7 @@
    "name": "Walmart",
    "source": "wd",
    "status": "working",
-   "listed": 621,
+   "listed": 623,
    "fresh": 0
   },
   {
@@ -439,7 +439,7 @@
    "name": "Samsara",
    "source": "gh",
    "status": "working",
-   "listed": 318,
+   "listed": 319,
    "fresh": 0
   },
   {
@@ -481,7 +481,7 @@
    "name": "Anthropic",
    "source": "gh",
    "status": "working",
-   "listed": 670,
+   "listed": 669,
    "fresh": 0
   },
   {
@@ -607,7 +607,7 @@
    "name": "Notion",
    "source": "ashby",
    "status": "working",
-   "listed": 166,
+   "listed": 165,
    "fresh": 0
   },
   {
