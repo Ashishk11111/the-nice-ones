@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T18:14:09.828696+00:00",
+ "updated": "2026-11-15T23:16:20.616826+00:00",
  "companies": [
   {
    "name": "databricks",
@@ -12,7 +12,7 @@
    "name": "mongodb",
    "source": "gh",
    "status": "working",
-   "listed": 390,
+   "listed": 392,
    "fresh": 0
   },
   {
@@ -201,7 +201,7 @@
    "name": "Salesforce",
    "source": "wd",
    "status": "working",
-   "listed": 276,
+   "listed": 272,
    "fresh": 1
   },
   {
@@ -215,7 +215,7 @@
    "name": "Mastercard",
    "source": "wd",
    "status": "working",
-   "listed": 255,
+   "listed": 252,
    "fresh": 0
   },
   {
@@ -327,7 +327,7 @@
    "name": "Transunion",
    "source": "wd",
    "status": "working",
-   "listed": 47,
+   "listed": 45,
    "fresh": 0
   },
   {
@@ -341,7 +341,7 @@
    "name": "Hitachi",
    "source": "wd",
    "status": "working",
-   "listed": 631,
+   "listed": 630,
    "fresh": 24
   },
   {
@@ -355,7 +355,7 @@
    "name": "Jda",
    "source": "wd",
    "status": "working",
-   "listed": 131,
+   "listed": 130,
    "fresh": 0
   },
   {
@@ -481,14 +481,14 @@
    "name": "Anthropic",
    "source": "gh",
    "status": "working",
-   "listed": 667,
+   "listed": 665,
    "fresh": 0
   },
   {
    "name": "OpenAI",
    "source": "ashby",
    "status": "working",
-   "listed": 837,
+   "listed": 838,
    "fresh": 0
   },
   {
@@ -509,7 +509,7 @@
    "name": "Plaid",
    "source": "ashby",
    "status": "working",
-   "listed": 142,
+   "listed": 141,
    "fresh": 0
   },
   {
@@ -600,7 +600,7 @@
    "name": "Paytm",
    "source": "lever",
    "status": "working",
-   "listed": 202,
+   "listed": 204,
    "fresh": 0
   },
   {
