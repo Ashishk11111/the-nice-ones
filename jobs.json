@@ -1,246 +1,57 @@
 {
- "updated": "2026-11-16T03:53:02.008871+00:00",
+ "updated": "2026-11-16T12:17:17.614010+00:00",
  "jobs": [
+  {
+   "company": "Salesforce",
+   "title": "Software Engineering AMTS",
+   "location": "2 Locations",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-AMTS_JR307116",
+   "posted": "2026-11-16T12:17:17.614010+00:00",
+   "fit": "fresher",
+   "why": "new grad"
+  },
   {
    "company": "Salesforce",
    "title": "Systems Engineering Associate",
    "location": "India - Hyderabad",
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Systems-Engineering-Associate_JR368441",
-   "posted": "2026-11-16T03:53:02.008871+00:00",
+   "posted": "2026-11-15T12:17:17.614010+00:00",
    "fit": "fresher",
    "why": "Associate"
-  },
-  {
-   "company": "Hitachi",
-   "title": "Associate Project Engineer",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Associate-Project-Engineer_R0150060",
-   "posted": "2026-11-13T03:53:02.008871+00:00",
-   "fit": "fresher",
-   "why": "Associate"
-  },
-  {
-   "company": "Hitachi",
-   "title": "Project Engineering Entry Professional",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Entry-Professional_R0149099",
-   "posted": "2026-11-13T03:53:02.008871+00:00",
-   "fit": "fresher",
-   "why": "Entry"
-  },
-  {
-   "company": "Hitachi",
-   "title": "Project Engineering Entry Professional",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Entry-Professional_R0149088",
-   "posted": "2026-11-13T03:53:02.008871+00:00",
-   "fit": "fresher",
-   "why": "Entry"
-  },
-  {
-   "company": "Hitachi",
-   "title": "Project Engineering Entry Professional",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Entry-Professional_R0149106",
-   "posted": "2026-11-13T03:53:02.008871+00:00",
-   "fit": "fresher",
-   "why": "Entry"
-  },
-  {
-   "company": "Hitachi",
-   "title": "Project Engineering Entry Professional",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Entry-Professional_R0149098",
-   "posted": "2026-11-13T03:53:02.008871+00:00",
-   "fit": "fresher",
-   "why": "Entry"
-  },
-  {
-   "company": "Hitachi",
-   "title": "Project Engineering Entry Professional",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Entry-Professional_R0149097",
-   "posted": "2026-11-13T03:53:02.008871+00:00",
-   "fit": "fresher",
-   "why": "Entry"
-  },
-  {
-   "company": "Hitachi",
-   "title": "Project Engineering Entry Professional",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Entry-Professional_R0149086",
-   "posted": "2026-11-13T03:53:02.008871+00:00",
-   "fit": "fresher",
-   "why": "Entry"
-  },
-  {
-   "company": "Hitachi",
-   "title": "Project Engineering Entry Professional",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Entry-Professional_R0149084",
-   "posted": "2026-11-13T03:53:02.008871+00:00",
-   "fit": "fresher",
-   "why": "Entry"
-  },
-  {
-   "company": "Hitachi",
-   "title": "Project Engineering Entry Professional",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Entry-Professional_R0149087",
-   "posted": "2026-11-13T03:53:02.008871+00:00",
-   "fit": "fresher",
-   "why": "Entry"
-  },
-  {
-   "company": "Hitachi",
-   "title": "Project Engineering Entry Professional",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Entry-Professional_R0149089",
-   "posted": "2026-11-13T03:53:02.008871+00:00",
-   "fit": "fresher",
-   "why": "Entry"
-  },
-  {
-   "company": "Hitachi",
-   "title": "Project Engineering Entry Professional",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Entry-Professional_R0149085",
-   "posted": "2026-11-13T03:53:02.008871+00:00",
-   "fit": "fresher",
-   "why": "Entry"
-  },
-  {
-   "company": "Hitachi",
-   "title": "Project Engineering Entry Professional",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Entry-Professional_R0149096",
-   "posted": "2026-11-13T03:53:02.008871+00:00",
-   "fit": "fresher",
-   "why": "Entry"
   },
   {
    "company": "Db",
-   "title": "Technical specialist- Backend Engineer (L3), AS",
+   "title": "QA Engineer for F2B Test Management, AS",
    "location": "Pune - Margarpatta",
-   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/Technical-specialist--Backend-Engineer--L3---AS_R0448756",
-   "posted": "2026-11-13T03:53:02.008871+00:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Aptiv",
-   "title": "Embedded SW Engineer- Algorithm Developer ADAS \u2013 Work Time - 6 PM to 3 AM",
-   "location": "Bangalore, India",
-   "url": "https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/Bangalore-India/Embedded-SW-Engineer--Algorithm-Developer-ADAS---Work-Time---6-PM-to-3-AM_J000706562",
-   "posted": "2026-11-13T03:53:02.008871+00:00",
+   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/QA-Engineer-for-F2B-Test-Management--AS_R0458033",
+   "posted": "2026-11-16T12:17:17.614010+00:00",
    "fit": "maybe",
    "why": ""
   },
   {
    "company": "Hitachi",
-   "title": "Mechanical Design Engineer",
-   "location": "Maneja, Gujarat, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Maneja-Gujarat-India/Mechanical-Design-Engineer_R0137500",
-   "posted": "2026-11-13T03:53:02.008871+00:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Hitachi",
-   "title": "Project Engineering Experienced Professional",
+   "title": "R&D Engineer - Control Development - India Development Centre",
    "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Experienced-Professional_R0149080",
-   "posted": "2026-11-13T03:53:02.008871+00:00",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/R-D-Engineer---Control-Development---India-Development-Centre_R0150641",
+   "posted": "2026-11-16T12:17:17.614010+00:00",
    "fit": "maybe",
    "why": ""
   },
   {
    "company": "Hitachi",
-   "title": "Project Engineering Experienced Professional",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Experienced-Professional_R0149095",
-   "posted": "2026-11-13T03:53:02.008871+00:00",
+   "title": "Backend Software Development Engineer \u2013 Expert (Storage Domain Must)",
+   "location": "(DEAI HV) IN Bengaluru - Residency Road",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/DEAI-HV-IN-Bengaluru---Residency-Road/Software-Engineer-Expert_R0132295",
+   "posted": "2026-11-16T12:17:17.614010+00:00",
    "fit": "maybe",
    "why": ""
   },
   {
    "company": "Hitachi",
-   "title": "Project Engineering Experienced Professional",
+   "title": "Expereinced Valve Electrical Engineer",
    "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Experienced-Professional_R0149079",
-   "posted": "2026-11-13T03:53:02.008871+00:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Hitachi",
-   "title": "Project Engineering Experienced Professional",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Experienced-Professional_R0149110",
-   "posted": "2026-11-13T03:53:02.008871+00:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Hitachi",
-   "title": "Project Engineering Experienced Professional",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Experienced-Professional_R0149082",
-   "posted": "2026-11-13T03:53:02.008871+00:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Hitachi",
-   "title": "Project Engineering Experienced Professional",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Experienced-Professional_R0149081",
-   "posted": "2026-11-13T03:53:02.008871+00:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Hitachi",
-   "title": "Project Engineering Experienced Professional",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Experienced-Professional_R0149093",
-   "posted": "2026-11-13T03:53:02.008871+00:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Hitachi",
-   "title": "Project Engineering Experienced Professional",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Experienced-Professional_R0149108",
-   "posted": "2026-11-13T03:53:02.008871+00:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Hitachi",
-   "title": "Project Engineering Experienced Professional",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Experienced-Professional_R0149083",
-   "posted": "2026-11-13T03:53:02.008871+00:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Hitachi",
-   "title": "Project Engineering Experienced Professional",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Experienced-Professional_R0149111-1",
-   "posted": "2026-11-13T03:53:02.008871+00:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Hitachi",
-   "title": "Control & Protection Design Engineer",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Senior-Professional_R0149092",
-   "posted": "2026-11-13T03:53:02.008871+00:00",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Expereinced-Valve-Electrical-Engineer_R0151371",
+   "posted": "2026-11-16T12:17:17.614010+00:00",
    "fit": "maybe",
    "why": ""
   }
