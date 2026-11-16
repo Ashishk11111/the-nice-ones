@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T23:16:20.616826+00:00",
+ "updated": "2026-11-16T03:53:02.008871+00:00",
  "companies": [
   {
    "name": "databricks",
@@ -12,21 +12,21 @@
    "name": "mongodb",
    "source": "gh",
    "status": "working",
-   "listed": 392,
+   "listed": 391,
    "fresh": 0
   },
   {
    "name": "cloudflare",
    "source": "gh",
    "status": "working",
-   "listed": 479,
+   "listed": 478,
    "fresh": 0
   },
   {
    "name": "twilio",
    "source": "gh",
    "status": "working",
-   "listed": 114,
+   "listed": 113,
    "fresh": 0
   },
   {
@@ -40,14 +40,14 @@
    "name": "okta",
    "source": "gh",
    "status": "working",
-   "listed": 361,
+   "listed": 360,
    "fresh": 0
   },
   {
    "name": "rubrik",
    "source": "gh",
    "status": "working",
-   "listed": 183,
+   "listed": 184,
    "fresh": 0
   },
   {
@@ -68,7 +68,7 @@
    "name": "airbnb",
    "source": "gh",
    "status": "working",
-   "listed": 213,
+   "listed": 212,
    "fresh": 0
   },
   {
@@ -208,7 +208,7 @@
    "name": "NVIDIA",
    "source": "wd",
    "status": "working",
-   "listed": 301,
+   "listed": 300,
    "fresh": 0
   },
   {
@@ -355,7 +355,7 @@
    "name": "Jda",
    "source": "wd",
    "status": "working",
-   "listed": 130,
+   "listed": 128,
    "fresh": 0
   },
   {
@@ -376,7 +376,7 @@
    "name": "Datadog",
    "source": "gh",
    "status": "working",
-   "listed": 384,
+   "listed": 382,
    "fresh": 0
   },
   {
@@ -474,14 +474,14 @@
    "name": "InMobi",
    "source": "gh",
    "status": "working",
-   "listed": 74,
+   "listed": 75,
    "fresh": 0
   },
   {
    "name": "Anthropic",
    "source": "gh",
    "status": "working",
-   "listed": 665,
+   "listed": 661,
    "fresh": 0
   },
   {
@@ -523,14 +523,14 @@
    "name": "Snowflake",
    "source": "ashby",
    "status": "working",
-   "listed": 376,
+   "listed": 377,
    "fresh": 0
   },
   {
    "name": "Zscaler",
    "source": "gh",
    "status": "working",
-   "listed": 373,
+   "listed": 378,
    "fresh": 0
   },
   {
@@ -586,7 +586,7 @@
    "name": "Pure Storage",
    "source": "gh",
    "status": "working",
-   "listed": 376,
+   "listed": 378,
    "fresh": 0
   },
   {
