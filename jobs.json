@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-17T04:53:04.760354+00:00",
+ "updated": "2026-11-17T13:59:27.951076+00:00",
  "jobs": [
   {
    "company": "Mastercard",
    "title": "Software Engineer I",
    "location": "Pune, India",
    "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I_R-294428-1",
-   "posted": "2026-11-17T04:53:04.760354+00:00",
+   "posted": "2026-11-17T13:59:27.951076+00:00",
    "fit": "fresher",
    "why": "Engineer I"
   },
@@ -15,52 +15,16 @@
    "title": "Systems Engineering Associate",
    "location": "India - Hyderabad",
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Systems-Engineering-Associate_JR368441",
-   "posted": "2026-11-16T04:53:04.760354+00:00",
+   "posted": "2026-11-15T13:59:27.951076+00:00",
    "fit": "fresher",
    "why": "Associate"
   },
   {
-   "company": "Motorolasolutions",
-   "title": "Software Engineer(Python/Perl, Any database, Linux, Networking concepts knowledge)",
-   "location": "Bangalore, India",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Software-Engineer-Python-Perl--Any-database--Microsevices--Kubernetes-_R68186",
-   "posted": "2026-11-17T04:53:04.760354+00:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
    "company": "Db",
-   "title": "QA Engineer for F2B Test Management, AS",
+   "title": "Adobe Experience Platform Engineer",
    "location": "Pune - Margarpatta",
-   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/QA-Engineer-for-F2B-Test-Management--AS_R0458033",
-   "posted": "2026-11-17T04:53:04.760354+00:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Hitachi",
-   "title": "R&D Engineer - Control Development - India Development Centre",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/R-D-Engineer---Control-Development---India-Development-Centre_R0150641",
-   "posted": "2026-11-17T04:53:04.760354+00:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Hitachi",
-   "title": "Backend Software Development Engineer \u2013 Expert (Storage Domain Must)",
-   "location": "(DEAI HV) IN Bengaluru - Residency Road",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/DEAI-HV-IN-Bengaluru---Residency-Road/Software-Engineer-Expert_R0132295",
-   "posted": "2026-11-17T04:53:04.760354+00:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Hitachi",
-   "title": "Expereinced Valve Electrical Engineer",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Expereinced-Valve-Electrical-Engineer_R0151371",
-   "posted": "2026-11-17T04:53:04.760354+00:00",
+   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/Full-Stack-Developer---Adobe-Experience-Platform--AEP----RT-CDP---Data-Collection--Launch----Adobe-Journey-Optimizer---Customer-Journey-Analytics--CJA---AS_R0455256",
+   "posted": "2026-11-17T13:59:27.951076+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -70,6 +34,51 @@
    "location": "bangalore",
    "url": "https://www.rubrik.com/company/careers/departments/job.8349847?gh_jid=8349847",
    "posted": "2026-11-16T19:01:13-05:00",
+   "fit": "maybe",
+   "why": ""
+  },
+  {
+   "company": "Motorolasolutions",
+   "title": "Software Engineer(Python/Perl, Any database, Linux, Networking concepts knowledge)",
+   "location": "Bangalore, India",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Software-Engineer-Python-Perl--Any-database--Microsevices--Kubernetes-_R68186",
+   "posted": "2026-11-16T13:59:27.951076+00:00",
+   "fit": "maybe",
+   "why": ""
+  },
+  {
+   "company": "Db",
+   "title": "QA Engineer for F2B Test Management, AS",
+   "location": "Pune - Margarpatta",
+   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/QA-Engineer-for-F2B-Test-Management--AS_R0458033",
+   "posted": "2026-11-16T13:59:27.951076+00:00",
+   "fit": "maybe",
+   "why": ""
+  },
+  {
+   "company": "Hitachi",
+   "title": "R&D Engineer - Control Development - India Development Centre",
+   "location": "Chennai, Tamil Nadu, India",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/R-D-Engineer---Control-Development---India-Development-Centre_R0150641",
+   "posted": "2026-11-16T13:59:27.951076+00:00",
+   "fit": "maybe",
+   "why": ""
+  },
+  {
+   "company": "Hitachi",
+   "title": "Backend Software Development Engineer \u2013 Expert (Storage Domain Must)",
+   "location": "(DEAI HV) IN Bengaluru - Residency Road",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/DEAI-HV-IN-Bengaluru---Residency-Road/Software-Engineer-Expert_R0132295",
+   "posted": "2026-11-16T13:59:27.951076+00:00",
+   "fit": "maybe",
+   "why": ""
+  },
+  {
+   "company": "Hitachi",
+   "title": "Expereinced Valve Electrical Engineer",
+   "location": "Chennai, Tamil Nadu, India",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Expereinced-Valve-Electrical-Engineer_R0151371",
+   "posted": "2026-11-16T13:59:27.951076+00:00",
    "fit": "maybe",
    "why": ""
   }
