@@ -1,39 +1,66 @@
 {
- "updated": "2026-11-20T01:32:14.657356+00:00",
+ "updated": "2026-11-20T09:26:59.082623+00:00",
  "jobs": [
   {
    "company": "Hitachi",
    "title": "Project Engineering Entry Professional",
    "location": "Chennai, Tamil Nadu, India",
    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Entry-Professional_R0149112",
-   "posted": "2026-11-20T01:32:14.657356+00:00",
+   "posted": "2026-11-19T09:26:59.082623+00:00",
    "fit": "fresher",
    "why": "Entry"
-  },
-  {
-   "company": "Paytm",
-   "title": "Backend - Intern ( SEA & Europe)",
-   "location": "Noida, Uttar Pradesh",
-   "url": "https://jobs.lever.co/paytm/0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8",
-   "posted": "2026-11-19T08:51:58.189000+00:00",
-   "fit": "fresher",
-   "why": "Intern"
   },
   {
    "company": "Philips",
    "title": "Systems Product Industrialization Engineer",
    "location": "Pune",
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Systems-Product-Industrialization-Engineer_592509",
-   "posted": "2026-11-19T01:32:14.657356+00:00",
+   "posted": "2026-11-18T09:26:59.082623+00:00",
    "fit": "fresher",
    "why": "entry-level"
+  },
+  {
+   "company": "Salesforce",
+   "title": "Software Engineering, MTS (Backend)",
+   "location": "India - Hyderabad",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering--MTS--Backend---Infra-_JR350272",
+   "posted": "2026-11-20T09:26:59.082623+00:00",
+   "fit": "maybe",
+   "why": ""
+  },
+  {
+   "company": "Db",
+   "title": "AIOps Engineer, NCT",
+   "location": "Pune - Business Bay",
+   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/AIOps-Engineer--NCT_R0454139",
+   "posted": "2026-11-20T09:26:59.082623+00:00",
+   "fit": "maybe",
+   "why": ""
+  },
+  {
+   "company": "Pure Storage",
+   "title": "Member of Technical staff, Backend (Product Security)",
+   "location": "Bangalore, India",
+   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8382538",
+   "posted": "2026-11-20T02:08:59-05:00",
+   "fit": "maybe",
+   "why": ""
+  },
+  {
+   "company": "Pure Storage",
+   "title": "Member of Technical Staff, Backend (Product Security) ",
+   "location": "Bangalore, India",
+   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8273641",
+   "posted": "2026-11-20T01:37:04-05:00",
+   "fit": "maybe",
+   "why": ""
   },
   {
    "company": "Philips",
    "title": "Data Scientist",
    "location": "Bangalore",
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Data-Scientist_592335",
-   "posted": "2026-11-20T01:32:14.657356+00:00",
+   "posted": "2026-11-19T09:26:59.082623+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -42,7 +69,7 @@
    "title": "Hitachi Integrated Solution Engineer",
    "location": "2 Locations",
    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hyderabad-Telangana-India/Hitachi-Integrated-Solution-Engineer_R0150417",
-   "posted": "2026-11-20T01:32:14.657356+00:00",
+   "posted": "2026-11-19T09:26:59.082623+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -51,7 +78,7 @@
    "title": "Data Engineering SMTS/LMTS",
    "location": "India - Hyderabad",
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Data-Engineering-SMTS-LMTS--Revenue-Analytics_JR364686",
-   "posted": "2026-11-19T01:32:14.657356+00:00",
+   "posted": "2026-11-18T09:26:59.082623+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -60,7 +87,7 @@
    "title": "SRE - Reliability Engineer- AS",
    "location": "Bangalore Velankani ISC",
    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Bangalore-Velankani-ISC/SRE---Reliability-Engineer-1_R0433449-1",
-   "posted": "2026-11-19T01:32:14.657356+00:00",
+   "posted": "2026-11-18T09:26:59.082623+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -69,7 +96,7 @@
    "title": "Project Engineer",
    "location": "Chennai, Tamil Nadu, India",
    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineer_R0149074-3",
-   "posted": "2026-11-19T01:32:14.657356+00:00",
+   "posted": "2026-11-18T09:26:59.082623+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -79,42 +106,6 @@
    "location": "Bangalore, India",
    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8394951",
    "posted": "2026-11-18T03:42:39-05:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Motorolasolutions",
-   "title": "Software Engineer(Python/Perl, Any database, Linux, Networking concepts knowledge)",
-   "location": "Bangalore, India",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Software-Engineer-Python-Perl--Any-database--Microsevices--Kubernetes-_R68186",
-   "posted": "2026-11-17T01:32:14.657356+00:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Hitachi",
-   "title": "R&D Engineer - Control Development - India Development Centre",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/R-D-Engineer---Control-Development---India-Development-Centre_R0150641",
-   "posted": "2026-11-17T01:32:14.657356+00:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Hitachi",
-   "title": "Backend Software Development Engineer \u2013 Expert (Storage Domain Must)",
-   "location": "(DEAI HV) IN Bengaluru - Residency Road",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/DEAI-HV-IN-Bengaluru---Residency-Road/Software-Engineer-Expert_R0132295",
-   "posted": "2026-11-17T01:32:14.657356+00:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Hitachi",
-   "title": "Expereinced Valve Electrical Engineer",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Expereinced-Valve-Electrical-Engineer_R0151371",
-   "posted": "2026-11-17T01:32:14.657356+00:00",
    "fit": "maybe",
    "why": ""
   }
