@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-20T09:26:59.082623+00:00",
+ "updated": "2026-11-20T18:09:31.868232+00:00",
  "companies": [
   {
    "name": "databricks",
    "source": "gh",
    "status": "working",
-   "listed": 898,
+   "listed": 895,
    "fresh": 0
   },
   {
    "name": "mongodb",
    "source": "gh",
    "status": "working",
-   "listed": 413,
+   "listed": 414,
    "fresh": 0
   },
   {
    "name": "cloudflare",
    "source": "gh",
    "status": "working",
-   "listed": 497,
+   "listed": 496,
    "fresh": 0
   },
   {
@@ -33,21 +33,21 @@
    "name": "elastic",
    "source": "gh",
    "status": "working",
-   "listed": 370,
+   "listed": 385,
    "fresh": 0
   },
   {
    "name": "okta",
    "source": "gh",
    "status": "working",
-   "listed": 365,
+   "listed": 374,
    "fresh": 0
   },
   {
    "name": "rubrik",
    "source": "gh",
    "status": "working",
-   "listed": 204,
+   "listed": 207,
    "fresh": 0
   },
   {
@@ -61,7 +61,7 @@
    "name": "stripe",
    "source": "gh",
    "status": "working",
-   "listed": 773,
+   "listed": 778,
    "fresh": 0
   },
   {
@@ -82,7 +82,7 @@
    "name": "fivetran",
    "source": "gh",
    "status": "working",
-   "listed": 187,
+   "listed": 186,
    "fresh": 0
   },
   {
@@ -96,7 +96,7 @@
    "name": "razorpaysoftwareprivatelimited",
    "source": "gh",
    "status": "working",
-   "listed": 31,
+   "listed": 29,
    "fresh": 0
   },
   {
@@ -110,7 +110,7 @@
    "name": "scopely",
    "source": "gh",
    "status": "working",
-   "listed": 173,
+   "listed": 171,
    "fresh": 0
   },
   {
@@ -131,7 +131,7 @@
    "name": "dunnhumby",
    "source": "gh",
    "status": "working",
-   "listed": 54,
+   "listed": 56,
    "fresh": 0
   },
   {
@@ -159,7 +159,7 @@
    "name": "cred",
    "source": "lever",
    "status": "working",
-   "listed": 10,
+   "listed": 11,
    "fresh": 0
   },
   {
@@ -187,7 +187,7 @@
    "name": "sarvam",
    "source": "ashby",
    "status": "working",
-   "listed": 44,
+   "listed": 43,
    "fresh": 0
   },
   {
@@ -201,21 +201,21 @@
    "name": "Salesforce",
    "source": "wd",
    "status": "working",
-   "listed": 277,
-   "fresh": 2
+   "listed": 273,
+   "fresh": 1
   },
   {
    "name": "NVIDIA",
    "source": "wd",
    "status": "working",
-   "listed": 291,
+   "listed": 289,
    "fresh": 0
   },
   {
    "name": "Mastercard",
    "source": "wd",
    "status": "working",
-   "listed": 211,
+   "listed": 210,
    "fresh": 0
   },
   {
@@ -236,7 +236,7 @@
    "name": "Browserstack",
    "source": "wd",
    "status": "working",
-   "listed": 46,
+   "listed": 48,
    "fresh": 0
   },
   {
@@ -250,7 +250,7 @@
    "name": "Walmart",
    "source": "wd",
    "status": "working",
-   "listed": 607,
+   "listed": 620,
    "fresh": 0
   },
   {
@@ -271,28 +271,28 @@
    "name": "Philips",
    "source": "wd",
    "status": "working",
-   "listed": 106,
+   "listed": 111,
    "fresh": 2
   },
   {
    "name": "Motorolasolutions",
    "source": "wd",
    "status": "working",
-   "listed": 133,
+   "listed": 135,
    "fresh": 0
   },
   {
    "name": "Db",
    "source": "wd",
    "status": "working",
-   "listed": 202,
-   "fresh": 2
+   "listed": 209,
+   "fresh": 3
   },
   {
    "name": "Mavenir",
    "source": "wd",
    "status": "working",
-   "listed": 16,
+   "listed": 17,
    "fresh": 0
   },
   {
@@ -313,7 +313,7 @@
    "name": "Aptiv",
    "source": "wd",
    "status": "working",
-   "listed": 230,
+   "listed": 231,
    "fresh": 0
   },
   {
@@ -327,7 +327,7 @@
    "name": "Transunion",
    "source": "wd",
    "status": "working",
-   "listed": 51,
+   "listed": 53,
    "fresh": 0
   },
   {
@@ -341,8 +341,8 @@
    "name": "Hitachi",
    "source": "wd",
    "status": "working",
-   "listed": 641,
-   "fresh": 3
+   "listed": 642,
+   "fresh": 5
   },
   {
    "name": "Fico",
@@ -355,7 +355,7 @@
    "name": "Jda",
    "source": "wd",
    "status": "working",
-   "listed": 108,
+   "listed": 112,
    "fresh": 0
   },
   {
@@ -383,7 +383,7 @@
    "name": "GitLab",
    "source": "gh",
    "status": "working",
-   "listed": 246,
+   "listed": 244,
    "fresh": 0
   },
   {
@@ -397,7 +397,7 @@
    "name": "Reddit",
    "source": "gh",
    "status": "working",
-   "listed": 143,
+   "listed": 146,
    "fresh": 0
   },
   {
@@ -439,7 +439,7 @@
    "name": "Samsara",
    "source": "gh",
    "status": "working",
-   "listed": 306,
+   "listed": 296,
    "fresh": 0
   },
   {
@@ -453,7 +453,7 @@
    "name": "Brex",
    "source": "gh",
    "status": "working",
-   "listed": 249,
+   "listed": 245,
    "fresh": 0
   },
   {
@@ -474,14 +474,14 @@
    "name": "InMobi",
    "source": "gh",
    "status": "working",
-   "listed": 77,
+   "listed": 76,
    "fresh": 0
   },
   {
    "name": "Anthropic",
    "source": "gh",
    "status": "working",
-   "listed": 637,
+   "listed": 639,
    "fresh": 0
   },
   {
@@ -509,28 +509,28 @@
    "name": "Plaid",
    "source": "ashby",
    "status": "working",
-   "listed": 146,
+   "listed": 148,
    "fresh": 0
   },
   {
    "name": "Palantir",
    "source": "lever",
    "status": "working",
-   "listed": 307,
+   "listed": 306,
    "fresh": 0
   },
   {
    "name": "Snowflake",
    "source": "ashby",
    "status": "working",
-   "listed": 380,
+   "listed": 374,
    "fresh": 0
   },
   {
    "name": "Zscaler",
    "source": "gh",
    "status": "working",
-   "listed": 376,
+   "listed": 384,
    "fresh": 0
   },
   {
@@ -551,7 +551,7 @@
    "name": "Netskope",
    "source": "gh",
    "status": "working",
-   "listed": 127,
+   "listed": 126,
    "fresh": 0
   },
   {
@@ -565,14 +565,14 @@
    "name": "Slice",
    "source": "gh",
    "status": "working",
-   "listed": 23,
+   "listed": 22,
    "fresh": 0
   },
   {
    "name": "Zeta",
    "source": "lever",
    "status": "working",
-   "listed": 32,
+   "listed": 33,
    "fresh": 0
   },
   {
@@ -586,7 +586,7 @@
    "name": "Pure Storage",
    "source": "gh",
    "status": "working",
-   "listed": 403,
+   "listed": 402,
    "fresh": 3
   },
   {
@@ -600,14 +600,14 @@
    "name": "Paytm",
    "source": "lever",
    "status": "working",
-   "listed": 197,
+   "listed": 199,
    "fresh": 0
   },
   {
    "name": "Notion",
    "source": "ashby",
    "status": "working",
-   "listed": 168,
+   "listed": 169,
    "fresh": 0
   },
   {
@@ -621,7 +621,7 @@
    "name": "Supabase",
    "source": "ashby",
    "status": "working",
-   "listed": 79,
+   "listed": 80,
    "fresh": 0
   },
   {
@@ -649,7 +649,7 @@
    "name": "Elastic",
    "source": "gh",
    "status": "working",
-   "listed": 370,
+   "listed": 385,
    "fresh": 0
   },
   {
@@ -663,14 +663,14 @@
    "name": "Mixpanel",
    "source": "gh",
    "status": "working",
-   "listed": 39,
+   "listed": 40,
    "fresh": 0
   },
   {
    "name": "Amplitude",
    "source": "ashby",
    "status": "working",
-   "listed": 49,
+   "listed": 48,
    "fresh": 0
   },
   {
@@ -684,7 +684,7 @@
    "name": "Sarvam",
    "source": "ashby",
    "status": "working",
-   "listed": 44,
+   "listed": 43,
    "fresh": 0
   },
   {
