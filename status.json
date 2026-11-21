@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-21T00:30:31.353481+00:00",
+ "updated": "2026-11-21T07:52:06.562485+00:00",
  "companies": [
   {
    "name": "databricks",
    "source": "gh",
    "status": "working",
-   "listed": 896,
+   "listed": 897,
    "fresh": 0
   },
   {
@@ -19,14 +19,14 @@
    "name": "cloudflare",
    "source": "gh",
    "status": "working",
-   "listed": 498,
+   "listed": 503,
    "fresh": 0
   },
   {
    "name": "twilio",
    "source": "gh",
    "status": "working",
-   "listed": 108,
+   "listed": 109,
    "fresh": 0
   },
   {
@@ -40,7 +40,7 @@
    "name": "okta",
    "source": "gh",
    "status": "working",
-   "listed": 376,
+   "listed": 372,
    "fresh": 0
   },
   {
@@ -61,21 +61,21 @@
    "name": "stripe",
    "source": "gh",
    "status": "working",
-   "listed": 780,
+   "listed": 778,
    "fresh": 0
   },
   {
    "name": "airbnb",
    "source": "gh",
    "status": "working",
-   "listed": 205,
+   "listed": 202,
    "fresh": 0
   },
   {
    "name": "coinbase",
    "source": "gh",
    "status": "working",
-   "listed": 253,
+   "listed": 252,
    "fresh": 0
   },
   {
@@ -193,8 +193,8 @@
   {
    "name": "Adobe",
    "source": "wd",
-   "status": "working",
-   "listed": 56,
+   "status": "failed",
+   "listed": 0,
    "fresh": 0
   },
   {
@@ -207,57 +207,57 @@
   {
    "name": "NVIDIA",
    "source": "wd",
-   "status": "working",
-   "listed": 289,
+   "status": "failed",
+   "listed": 0,
    "fresh": 0
   },
   {
    "name": "Mastercard",
    "source": "wd",
-   "status": "working",
-   "listed": 204,
+   "status": "failed",
+   "listed": 0,
    "fresh": 0
   },
   {
    "name": "Broadcom",
    "source": "wd",
-   "status": "working",
-   "listed": 5,
+   "status": "failed",
+   "listed": 0,
    "fresh": 0
   },
   {
    "name": "Autodesk",
    "source": "wd",
-   "status": "working",
-   "listed": 1,
+   "status": "failed",
+   "listed": 0,
    "fresh": 0
   },
   {
    "name": "Browserstack",
    "source": "wd",
-   "status": "working",
-   "listed": 48,
+   "status": "failed",
+   "listed": 0,
    "fresh": 0
   },
   {
    "name": "Sprinklr",
    "source": "wd",
-   "status": "working",
-   "listed": 20,
+   "status": "failed",
+   "listed": 0,
    "fresh": 0
   },
   {
    "name": "Walmart",
    "source": "wd",
    "status": "working",
-   "listed": 617,
+   "listed": 605,
    "fresh": 0
   },
   {
    "name": "Zendesk",
    "source": "wd",
-   "status": "working",
-   "listed": 26,
+   "status": "failed",
+   "listed": 0,
    "fresh": 0
   },
   {
@@ -270,50 +270,50 @@
   {
    "name": "Philips",
    "source": "wd",
-   "status": "working",
-   "listed": 105,
-   "fresh": 1
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
   },
   {
    "name": "Motorolasolutions",
    "source": "wd",
-   "status": "working",
-   "listed": 139,
+   "status": "failed",
+   "listed": 0,
    "fresh": 0
   },
   {
    "name": "Db",
    "source": "wd",
-   "status": "working",
-   "listed": 202,
-   "fresh": 1
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
   },
   {
    "name": "Mavenir",
    "source": "wd",
-   "status": "working",
-   "listed": 16,
+   "status": "failed",
+   "listed": 0,
    "fresh": 0
   },
   {
    "name": "Aveva",
    "source": "wd",
-   "status": "working",
-   "listed": 122,
+   "status": "failed",
+   "listed": 0,
    "fresh": 0
   },
   {
    "name": "Flexerasoftware",
    "source": "wd",
-   "status": "working",
-   "listed": 12,
+   "status": "failed",
+   "listed": 0,
    "fresh": 0
   },
   {
    "name": "Aptiv",
    "source": "wd",
-   "status": "working",
-   "listed": 232,
+   "status": "failed",
+   "listed": 0,
    "fresh": 0
   },
   {
@@ -326,50 +326,50 @@
   {
    "name": "Transunion",
    "source": "wd",
-   "status": "working",
-   "listed": 46,
+   "status": "failed",
+   "listed": 0,
    "fresh": 0
   },
   {
    "name": "Ciena",
    "source": "wd",
-   "status": "working",
-   "listed": 13,
+   "status": "failed",
+   "listed": 0,
    "fresh": 0
   },
   {
    "name": "Hitachi",
    "source": "wd",
-   "status": "working",
-   "listed": 639,
-   "fresh": 5
+   "status": "failed",
+   "listed": 0,
+   "fresh": 0
   },
   {
    "name": "Fico",
    "source": "wd",
-   "status": "no jobs",
+   "status": "failed",
    "listed": 0,
    "fresh": 0
   },
   {
    "name": "Jda",
    "source": "wd",
-   "status": "working",
-   "listed": 112,
+   "status": "failed",
+   "listed": 0,
    "fresh": 0
   },
   {
    "name": "Genesys",
    "source": "wd",
-   "status": "working",
-   "listed": 53,
+   "status": "failed",
+   "listed": 0,
    "fresh": 0
   },
   {
    "name": "Clarivate",
    "source": "wd",
-   "status": "working",
-   "listed": 9,
+   "status": "failed",
+   "listed": 0,
    "fresh": 0
   },
   {
@@ -397,7 +397,7 @@
    "name": "Reddit",
    "source": "gh",
    "status": "working",
-   "listed": 149,
+   "listed": 148,
    "fresh": 0
   },
   {
@@ -418,7 +418,7 @@
    "name": "Lyft",
    "source": "gh",
    "status": "working",
-   "listed": 146,
+   "listed": 148,
    "fresh": 0
   },
   {
@@ -439,7 +439,7 @@
    "name": "Samsara",
    "source": "gh",
    "status": "working",
-   "listed": 289,
+   "listed": 288,
    "fresh": 0
   },
   {
@@ -467,7 +467,7 @@
    "name": "Vercel",
    "source": "gh",
    "status": "working",
-   "listed": 85,
+   "listed": 86,
    "fresh": 0
   },
   {
@@ -481,14 +481,14 @@
    "name": "Anthropic",
    "source": "gh",
    "status": "working",
-   "listed": 634,
+   "listed": 633,
    "fresh": 0
   },
   {
    "name": "OpenAI",
    "source": "ashby",
    "status": "working",
-   "listed": 851,
+   "listed": 852,
    "fresh": 0
   },
   {
@@ -509,7 +509,7 @@
    "name": "Plaid",
    "source": "ashby",
    "status": "working",
-   "listed": 149,
+   "listed": 147,
    "fresh": 0
   },
   {
@@ -551,7 +551,7 @@
    "name": "Netskope",
    "source": "gh",
    "status": "working",
-   "listed": 125,
+   "listed": 124,
    "fresh": 0
   },
   {
@@ -586,7 +586,7 @@
    "name": "Pure Storage",
    "source": "gh",
    "status": "working",
-   "listed": 403,
+   "listed": 401,
    "fresh": 3
   },
   {
