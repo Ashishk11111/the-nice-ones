@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-21T15:47:24.611239+00:00",
+ "updated": "2026-11-21T21:21:07.732834+00:00",
  "companies": [
   {
    "name": "databricks",
    "source": "gh",
    "status": "working",
-   "listed": 896,
+   "listed": 895,
    "fresh": 0
   },
   {
@@ -19,7 +19,7 @@
    "name": "cloudflare",
    "source": "gh",
    "status": "working",
-   "listed": 503,
+   "listed": 504,
    "fresh": 0
   },
   {
@@ -89,7 +89,7 @@
    "name": "scaleai",
    "source": "gh",
    "status": "working",
-   "listed": 169,
+   "listed": 167,
    "fresh": 0
   },
   {
@@ -250,7 +250,7 @@
    "name": "Walmart",
    "source": "wd",
    "status": "working",
-   "listed": 614,
+   "listed": 618,
    "fresh": 0
   },
   {
@@ -285,7 +285,7 @@
    "name": "Db",
    "source": "wd",
    "status": "working",
-   "listed": 202,
+   "listed": 200,
    "fresh": 1
   },
   {
@@ -341,7 +341,7 @@
    "name": "Hitachi",
    "source": "wd",
    "status": "working",
-   "listed": 639,
+   "listed": 637,
    "fresh": 5
   },
   {
@@ -439,7 +439,7 @@
    "name": "Samsara",
    "source": "gh",
    "status": "working",
-   "listed": 296,
+   "listed": 298,
    "fresh": 0
   },
   {
@@ -635,7 +635,7 @@
    "name": "Scale AI",
    "source": "gh",
    "status": "working",
-   "listed": 169,
+   "listed": 167,
    "fresh": 0
   },
   {
