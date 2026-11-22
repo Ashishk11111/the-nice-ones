@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-22T09:04:36.387865+00:00",
+ "updated": "2026-11-22T17:29:49.665881+00:00",
  "companies": [
   {
    "name": "databricks",
    "source": "gh",
    "status": "working",
-   "listed": 895,
+   "listed": 894,
    "fresh": 0
   },
   {
@@ -40,7 +40,7 @@
    "name": "okta",
    "source": "gh",
    "status": "working",
-   "listed": 374,
+   "listed": 373,
    "fresh": 0
   },
   {
@@ -201,14 +201,14 @@
    "name": "Salesforce",
    "source": "wd",
    "status": "working",
-   "listed": 273,
+   "listed": 275,
    "fresh": 0
   },
   {
    "name": "NVIDIA",
    "source": "wd",
    "status": "working",
-   "listed": 289,
+   "listed": 288,
    "fresh": 0
   },
   {
@@ -250,7 +250,7 @@
    "name": "Walmart",
    "source": "wd",
    "status": "working",
-   "listed": 609,
+   "listed": 618,
    "fresh": 0
   },
   {
@@ -362,7 +362,7 @@
    "name": "Genesys",
    "source": "wd",
    "status": "working",
-   "listed": 50,
+   "listed": 52,
    "fresh": 0
   },
   {
@@ -481,7 +481,7 @@
    "name": "Anthropic",
    "source": "gh",
    "status": "working",
-   "listed": 635,
+   "listed": 633,
    "fresh": 0
   },
   {
