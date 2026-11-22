@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T21:21:07.732834+00:00",
+ "updated": "2026-11-22T01:48:15.447034+00:00",
  "companies": [
   {
    "name": "databricks",
@@ -61,7 +61,7 @@
    "name": "stripe",
    "source": "gh",
    "status": "working",
-   "listed": 778,
+   "listed": 777,
    "fresh": 0
   },
   {
@@ -89,7 +89,7 @@
    "name": "scaleai",
    "source": "gh",
    "status": "working",
-   "listed": 167,
+   "listed": 166,
    "fresh": 0
   },
   {
@@ -250,7 +250,7 @@
    "name": "Walmart",
    "source": "wd",
    "status": "working",
-   "listed": 618,
+   "listed": 620,
    "fresh": 0
   },
   {
@@ -439,7 +439,7 @@
    "name": "Samsara",
    "source": "gh",
    "status": "working",
-   "listed": 298,
+   "listed": 299,
    "fresh": 0
   },
   {
@@ -635,7 +635,7 @@
    "name": "Scale AI",
    "source": "gh",
    "status": "working",
-   "listed": 167,
+   "listed": 166,
    "fresh": 0
   },
   {
