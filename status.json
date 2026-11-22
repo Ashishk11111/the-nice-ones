@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-22T17:29:49.665881+00:00",
+ "updated": "2026-11-22T22:58:40.283528+00:00",
  "companies": [
   {
    "name": "databricks",
    "source": "gh",
    "status": "working",
-   "listed": 894,
+   "listed": 893,
    "fresh": 0
   },
   {
@@ -61,14 +61,14 @@
    "name": "stripe",
    "source": "gh",
    "status": "working",
-   "listed": 777,
+   "listed": 778,
    "fresh": 0
   },
   {
    "name": "airbnb",
    "source": "gh",
    "status": "working",
-   "listed": 202,
+   "listed": 203,
    "fresh": 0
   },
   {
@@ -201,7 +201,7 @@
    "name": "Salesforce",
    "source": "wd",
    "status": "working",
-   "listed": 275,
+   "listed": 265,
    "fresh": 0
   },
   {
@@ -215,7 +215,7 @@
    "name": "Mastercard",
    "source": "wd",
    "status": "working",
-   "listed": 204,
+   "listed": 202,
    "fresh": 0
   },
   {
@@ -229,7 +229,7 @@
    "name": "Autodesk",
    "source": "wd",
    "status": "working",
-   "listed": 1,
+   "listed": 2,
    "fresh": 0
   },
   {
@@ -250,7 +250,7 @@
    "name": "Walmart",
    "source": "wd",
    "status": "working",
-   "listed": 618,
+   "listed": 616,
    "fresh": 0
   },
   {
@@ -271,7 +271,7 @@
    "name": "Philips",
    "source": "wd",
    "status": "working",
-   "listed": 105,
+   "listed": 103,
    "fresh": 0
   },
   {
@@ -285,7 +285,7 @@
    "name": "Db",
    "source": "wd",
    "status": "working",
-   "listed": 200,
+   "listed": 198,
    "fresh": 0
   },
   {
@@ -327,7 +327,7 @@
    "name": "Transunion",
    "source": "wd",
    "status": "working",
-   "listed": 46,
+   "listed": 44,
    "fresh": 0
   },
   {
@@ -341,7 +341,7 @@
    "name": "Hitachi",
    "source": "wd",
    "status": "working",
-   "listed": 637,
+   "listed": 630,
    "fresh": 4
   },
   {
@@ -355,7 +355,7 @@
    "name": "Jda",
    "source": "wd",
    "status": "working",
-   "listed": 112,
+   "listed": 108,
    "fresh": 0
   },
   {
@@ -439,7 +439,7 @@
    "name": "Samsara",
    "source": "gh",
    "status": "working",
-   "listed": 299,
+   "listed": 300,
    "fresh": 0
   },
   {
@@ -481,7 +481,7 @@
    "name": "Anthropic",
    "source": "gh",
    "status": "working",
-   "listed": 633,
+   "listed": 636,
    "fresh": 0
   },
   {
