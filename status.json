@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T01:48:15.447034+00:00",
+ "updated": "2026-11-22T09:04:36.387865+00:00",
  "companies": [
   {
    "name": "databricks",
@@ -40,7 +40,7 @@
    "name": "okta",
    "source": "gh",
    "status": "working",
-   "listed": 372,
+   "listed": 374,
    "fresh": 0
   },
   {
@@ -54,7 +54,7 @@
    "name": "groww",
    "source": "gh",
    "status": "working",
-   "listed": 9,
+   "listed": 8,
    "fresh": 0
   },
   {
@@ -166,7 +166,7 @@
    "name": "meesho",
    "source": "lever",
    "status": "working",
-   "listed": 48,
+   "listed": 47,
    "fresh": 0
   },
   {
@@ -202,7 +202,7 @@
    "source": "wd",
    "status": "working",
    "listed": 273,
-   "fresh": 1
+   "fresh": 0
   },
   {
    "name": "NVIDIA",
@@ -250,7 +250,7 @@
    "name": "Walmart",
    "source": "wd",
    "status": "working",
-   "listed": 620,
+   "listed": 609,
    "fresh": 0
   },
   {
@@ -272,7 +272,7 @@
    "source": "wd",
    "status": "working",
    "listed": 105,
-   "fresh": 1
+   "fresh": 0
   },
   {
    "name": "Motorolasolutions",
@@ -286,7 +286,7 @@
    "source": "wd",
    "status": "working",
    "listed": 200,
-   "fresh": 1
+   "fresh": 0
   },
   {
    "name": "Mavenir",
@@ -342,7 +342,7 @@
    "source": "wd",
    "status": "working",
    "listed": 637,
-   "fresh": 5
+   "fresh": 4
   },
   {
    "name": "Fico",
@@ -418,7 +418,7 @@
    "name": "Lyft",
    "source": "gh",
    "status": "working",
-   "listed": 148,
+   "listed": 145,
    "fresh": 0
   },
   {
