@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-22T22:58:40.283528+00:00",
+ "updated": "2026-11-23T03:32:36.577978+00:00",
  "companies": [
   {
    "name": "databricks",
    "source": "gh",
    "status": "working",
-   "listed": 893,
+   "listed": 895,
    "fresh": 0
   },
   {
@@ -40,7 +40,7 @@
    "name": "okta",
    "source": "gh",
    "status": "working",
-   "listed": 373,
+   "listed": 375,
    "fresh": 0
   },
   {
@@ -201,14 +201,14 @@
    "name": "Salesforce",
    "source": "wd",
    "status": "working",
-   "listed": 265,
+   "listed": 267,
    "fresh": 0
   },
   {
    "name": "NVIDIA",
    "source": "wd",
    "status": "working",
-   "listed": 288,
+   "listed": 289,
    "fresh": 0
   },
   {
@@ -250,7 +250,7 @@
    "name": "Walmart",
    "source": "wd",
    "status": "working",
-   "listed": 616,
+   "listed": 613,
    "fresh": 0
   },
   {
@@ -271,7 +271,7 @@
    "name": "Philips",
    "source": "wd",
    "status": "working",
-   "listed": 103,
+   "listed": 100,
    "fresh": 0
   },
   {
@@ -355,7 +355,7 @@
    "name": "Jda",
    "source": "wd",
    "status": "working",
-   "listed": 108,
+   "listed": 113,
    "fresh": 0
   },
   {
@@ -376,7 +376,7 @@
    "name": "Datadog",
    "source": "gh",
    "status": "working",
-   "listed": 382,
+   "listed": 383,
    "fresh": 0
   },
   {
@@ -439,7 +439,7 @@
    "name": "Samsara",
    "source": "gh",
    "status": "working",
-   "listed": 300,
+   "listed": 301,
    "fresh": 0
   },
   {
@@ -460,7 +460,7 @@
    "name": "Gusto",
    "source": "gh",
    "status": "working",
-   "listed": 82,
+   "listed": 83,
    "fresh": 0
   },
   {
@@ -551,7 +551,7 @@
    "name": "Netskope",
    "source": "gh",
    "status": "working",
-   "listed": 124,
+   "listed": 123,
    "fresh": 0
   },
   {
@@ -586,7 +586,7 @@
    "name": "Pure Storage",
    "source": "gh",
    "status": "working",
-   "listed": 401,
+   "listed": 400,
    "fresh": 2
   },
   {
