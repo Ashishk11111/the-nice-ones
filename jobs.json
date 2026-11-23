@@ -1,21 +1,66 @@
 {
- "updated": "2026-11-23T03:32:36.577978+00:00",
+ "updated": "2026-11-23T13:52:23.108331+00:00",
  "jobs": [
   {
-   "company": "Hitachi",
-   "title": "Project Engineering Entry Professional",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Entry-Professional_R0149112",
-   "posted": "2026-11-20T03:32:36.577978+00:00",
+   "company": "Philips",
+   "title": "Systems Product Industrialization Engineer",
+   "location": "Pune",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Systems-Product-Industrialization-Engineer_592509",
+   "posted": "2026-11-23T13:52:23.108331+00:00",
    "fit": "fresher",
-   "why": "Entry"
+   "why": "entry-level"
+  },
+  {
+   "company": "Transunion",
+   "title": "Assoc Developer, Software Development",
+   "location": "Hyderabad",
+   "url": "https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Hyderabad/Assoc-Developer--Software-Development_19043115-1",
+   "posted": "2026-11-23T13:52:23.108331+00:00",
+   "fit": "fresher",
+   "why": "entry-level"
+  },
+  {
+   "company": "Transunion",
+   "title": "Associate Developer, SQL and UNIX operating system",
+   "location": "Hyderabad",
+   "url": "https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Hyderabad/Associate-Developer--SQL-and-UNIX-operating-system_19043143",
+   "posted": "2026-11-23T13:52:23.108331+00:00",
+   "fit": "fresher",
+   "why": "Associate"
+  },
+  {
+   "company": "Db",
+   "title": "QA Engineer for F2B Test Management, AS",
+   "location": "Pune - Margarpatta",
+   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/QA-Engineer-for-F2B-Test-Management--AS_R0458033",
+   "posted": "2026-11-23T13:52:23.108331+00:00",
+   "fit": "maybe",
+   "why": ""
+  },
+  {
+   "company": "Transunion",
+   "title": "Sr Developer, Applications Development",
+   "location": "Hyderabad",
+   "url": "https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Hyderabad/Sr-Developer--Applications-Development_19043172",
+   "posted": "2026-11-23T13:52:23.108331+00:00",
+   "fit": "maybe",
+   "why": ""
+  },
+  {
+   "company": "Hitachi",
+   "title": "Quality Engineer",
+   "location": "Maneja, Gujarat, India",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Maneja-Gujarat-India/Quality-Engineer_R0126815",
+   "posted": "2026-11-23T13:52:23.108331+00:00",
+   "fit": "maybe",
+   "why": ""
   },
   {
    "company": "Hitachi",
    "title": "R&D Engineer - Control Development",
    "location": "Chennai, Tamil Nadu, India",
    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/R-D-Engineer---Control-Development_R0149360",
-   "posted": "2026-11-21T03:32:36.577978+00:00",
+   "posted": "2026-11-20T13:52:23.108331+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -24,34 +69,7 @@
    "title": "R&D Engineer - Substation automation Verification & Validation",
    "location": "Chennai, Tamil Nadu, India",
    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/R-D-Engineer---Substation-automation-Verification---Validation_R0149583",
-   "posted": "2026-11-21T03:32:36.577978+00:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Pure Storage",
-   "title": "Member of Technical staff, Backend (Product Security)",
-   "location": "Bangalore, India",
-   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8382538",
-   "posted": "2026-11-20T02:08:59-05:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Pure Storage",
-   "title": "Member of Technical Staff, Backend (Product Security) ",
-   "location": "Bangalore, India",
-   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8273641",
-   "posted": "2026-11-20T01:37:04-05:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Hitachi",
-   "title": "Hitachi Integrated Solution Engineer",
-   "location": "2 Locations",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hyderabad-Telangana-India/Hitachi-Integrated-Solution-Engineer_R0150417",
-   "posted": "2026-11-20T03:32:36.577978+00:00",
+   "posted": "2026-11-20T13:52:23.108331+00:00",
    "fit": "maybe",
    "why": ""
   }
