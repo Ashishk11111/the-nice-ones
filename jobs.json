@@ -1,30 +1,57 @@
 {
- "updated": "2026-11-24T01:23:59.327913+00:00",
+ "updated": "2026-11-24T11:50:12.047981+00:00",
  "jobs": [
+  {
+   "company": "Salesforce",
+   "title": "Systems Engineering Associate",
+   "location": "India - Hyderabad",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Systems-Engineering-Associate_JR368441",
+   "posted": "2026-11-24T11:50:12.047981+00:00",
+   "fit": "fresher",
+   "why": "Associate"
+  },
+  {
+   "company": "Salesforce",
+   "title": "Software Engineering AMTS",
+   "location": "2 Locations",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-AMTS_JR307116",
+   "posted": "2026-11-24T11:50:12.047981+00:00",
+   "fit": "fresher",
+   "why": "new grad"
+  },
   {
    "company": "Philips",
    "title": "Systems Product Industrialization Engineer",
    "location": "Pune",
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Systems-Product-Industrialization-Engineer_592509",
-   "posted": "2026-11-24T01:23:59.327913+00:00",
+   "posted": "2026-11-23T11:50:12.047981+00:00",
    "fit": "fresher",
    "why": "entry-level"
   },
   {
-   "company": "Db",
-   "title": "QA Engineer for F2B Test Management, AS",
-   "location": "Pune - Margarpatta",
-   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/QA-Engineer-for-F2B-Test-Management--AS_R0458033",
-   "posted": "2026-11-24T01:23:59.327913+00:00",
+   "company": "Motorolasolutions",
+   "title": "Fullstack Engineer-4+ years(JAVA, Angular,Spring, SpringBoot, Restful web services, MySql, Gradle, Maven)",
+   "location": "Bangalore, India",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Fullstack-Engineer-4--years-JAVA--Angular-Spring--SpringBoot--Restful-web-services--MySql--Gradle--Maven-_R70694",
+   "posted": "2026-11-24T11:50:12.047981+00:00",
    "fit": "maybe",
    "why": ""
   },
   {
-   "company": "Hitachi",
-   "title": "Quality Engineer",
-   "location": "Maneja, Gujarat, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Maneja-Gujarat-India/Quality-Engineer_R0126815",
-   "posted": "2026-11-24T01:23:59.327913+00:00",
+   "company": "Db",
+   "title": "Adobe Experience Platform Engineer",
+   "location": "Pune - Margarpatta",
+   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/Full-Stack-Developer---Adobe-Experience-Platform--AEP----RT-CDP---Data-Collection--Launch----Adobe-Journey-Optimizer---Customer-Journey-Analytics--CJA---AS_R0455256",
+   "posted": "2026-11-24T11:50:12.047981+00:00",
+   "fit": "maybe",
+   "why": ""
+  },
+  {
+   "company": "Db",
+   "title": "Engineer, AS",
+   "location": "Pune - Margarpatta",
+   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/Engineer--AS_R0447438",
+   "posted": "2026-11-24T11:50:12.047981+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -39,19 +66,10 @@
   },
   {
    "company": "Hitachi",
-   "title": "R&D Engineer - Control Development",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/R-D-Engineer---Control-Development_R0149360",
-   "posted": "2026-11-21T01:23:59.327913+00:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Hitachi",
-   "title": "R&D Engineer - Substation automation Verification & Validation",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/R-D-Engineer---Substation-automation-Verification---Validation_R0149583",
-   "posted": "2026-11-21T01:23:59.327913+00:00",
+   "title": "Quality Engineer",
+   "location": "Maneja, Gujarat, India",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Maneja-Gujarat-India/Quality-Engineer_R0126815",
+   "posted": "2026-11-23T11:50:12.047981+00:00",
    "fit": "maybe",
    "why": ""
   }
