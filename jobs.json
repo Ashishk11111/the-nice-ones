@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-26T05:59:48.994406+00:00",
+ "updated": "2026-11-26T16:36:31.219293+00:00",
  "jobs": [
   {
-   "company": "commerceiq",
-   "title": "SDE Intern",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://job-boards.greenhouse.io/commerceiq/jobs/8217480003",
-   "posted": "2026-11-26T00:47:26-05:00",
+   "company": "rubrik",
+   "title": "Software Engineer (UI) - Winter Intern",
+   "location": "Bangalore",
+   "url": "https://www.rubrik.com/company/careers/departments/job.8413157?gh_jid=8413157",
+   "posted": "2026-11-26T03:53:02-05:00",
    "fit": "fresher",
    "why": "Intern"
   },
@@ -29,11 +29,20 @@
    "why": "Intern"
   },
   {
+   "company": "Amazon",
+   "title": "Data Engineer I, CMT",
+   "location": "IN, KA, Bengaluru",
+   "url": "https://www.amazon.jobs/en/jobs/10614089/data-engineer-i-cmt",
+   "posted": "2026-11-26T00:00:00+00:00",
+   "fit": "fresher",
+   "why": "Engineer I"
+  },
+  {
    "company": "Philips",
    "title": "Systems Product Industrialization Engineer",
    "location": "Pune",
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Systems-Product-Industrialization-Engineer_592509",
-   "posted": "2026-11-24T05:59:48.994406+00:00",
+   "posted": "2026-11-23T16:36:31.219293+00:00",
    "fit": "fresher",
    "why": "entry-level"
   },
@@ -42,7 +51,7 @@
    "title": "Data Engineer",
    "location": "2 Locations",
    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Data-Engineer_R173786-1",
-   "posted": "2026-11-26T05:59:48.994406+00:00",
+   "posted": "2026-11-26T16:36:31.219293+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -51,7 +60,7 @@
    "title": "Data Scientist",
    "location": "Bangalore",
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Data-Scientist_592335",
-   "posted": "2026-11-26T05:59:48.994406+00:00",
+   "posted": "2026-11-26T16:36:31.219293+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -60,7 +69,7 @@
    "title": "Cybersecurity Developer",
    "location": "Bangalore, India",
    "url": "https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/Bangalore-India/Cybersecurity-Developer_J000704638",
-   "posted": "2026-11-26T05:59:48.994406+00:00",
+   "posted": "2026-11-25T16:36:31.219293+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -69,16 +78,7 @@
    "title": "Fullstack Engineer-4+ years(JAVA, Angular,Spring, SpringBoot, Restful web services, MySql, Gradle, Maven)",
    "location": "Bangalore, India",
    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Fullstack-Engineer-4--years-JAVA--Angular-Spring--SpringBoot--Restful-web-services--MySql--Gradle--Maven-_R70694",
-   "posted": "2026-11-25T05:59:48.994406+00:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Db",
-   "title": "Engineer, AS",
-   "location": "Pune - Margarpatta",
-   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/Engineer--AS_R0447438",
-   "posted": "2026-11-25T05:59:48.994406+00:00",
+   "posted": "2026-11-24T16:36:31.219293+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -87,7 +87,7 @@
    "title": "Electromechanical Engineer",
    "location": "Chennai, Tamil Nadu, India",
    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Electromechanical-Engineer_R0144227",
-   "posted": "2026-11-25T05:59:48.994406+00:00",
+   "posted": "2026-11-24T16:36:31.219293+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -96,7 +96,7 @@
    "title": "Secondary Engineer",
    "location": "Chennai, Tamil Nadu, India",
    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Secondary-Engineer_R0131799",
-   "posted": "2026-11-25T05:59:48.994406+00:00",
+   "posted": "2026-11-24T16:36:31.219293+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -105,7 +105,7 @@
    "title": "Secondary Engineer",
    "location": "Chennai, Tamil Nadu, India",
    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Secondary-Engineer_R0135685",
-   "posted": "2026-11-25T05:59:48.994406+00:00",
+   "posted": "2026-11-24T16:36:31.219293+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -114,7 +114,7 @@
    "title": "Secondary Engineer",
    "location": "Chennai, Tamil Nadu, India",
    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Secondary-Engineer_R0143405",
-   "posted": "2026-11-25T05:59:48.994406+00:00",
+   "posted": "2026-11-24T16:36:31.219293+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -123,7 +123,7 @@
    "title": "Secondary Engineer",
    "location": "Chennai, Tamil Nadu, India",
    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Secondary-Engineer_R0139122",
-   "posted": "2026-11-25T05:59:48.994406+00:00",
+   "posted": "2026-11-24T16:36:31.219293+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -132,16 +132,7 @@
    "title": "Control Engineer",
    "location": "Chennai, Tamil Nadu, India",
    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Control-Engineer_R0148681",
-   "posted": "2026-11-25T05:59:48.994406+00:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Hitachi",
-   "title": "Quality Engineer",
-   "location": "Maneja, Gujarat, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Maneja-Gujarat-India/Quality-Engineer_R0126815",
-   "posted": "2026-11-24T05:59:48.994406+00:00",
+   "posted": "2026-11-24T16:36:31.219293+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -151,6 +142,15 @@
    "location": "Bangalore, India",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940982002",
    "posted": "2026-11-23T17:02:31-05:00",
+   "fit": "maybe",
+   "why": ""
+  },
+  {
+   "company": "Hitachi",
+   "title": "Quality Engineer",
+   "location": "Maneja, Gujarat, India",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Maneja-Gujarat-India/Quality-Engineer_R0126815",
+   "posted": "2026-11-23T16:36:31.219293+00:00",
    "fit": "maybe",
    "why": ""
   }
