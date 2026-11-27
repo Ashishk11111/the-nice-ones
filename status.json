@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-27T00:53:40.896920+00:00",
+ "updated": "2026-11-27T09:17:55.331682+00:00",
  "companies": [
   {
    "name": "databricks",
    "source": "gh",
    "status": "working",
-   "listed": 883,
+   "listed": 879,
    "fresh": 0
   },
   {
    "name": "mongodb",
    "source": "gh",
    "status": "working",
-   "listed": 421,
+   "listed": 422,
    "fresh": 0
   },
   {
    "name": "cloudflare",
    "source": "gh",
    "status": "working",
-   "listed": 528,
+   "listed": 530,
    "fresh": 0
   },
   {
@@ -40,14 +40,14 @@
    "name": "okta",
    "source": "gh",
    "status": "working",
-   "listed": 360,
+   "listed": 362,
    "fresh": 0
   },
   {
    "name": "rubrik",
    "source": "gh",
    "status": "working",
-   "listed": 223,
+   "listed": 222,
    "fresh": 1
   },
   {
@@ -61,14 +61,14 @@
    "name": "stripe",
    "source": "gh",
    "status": "working",
-   "listed": 768,
+   "listed": 767,
    "fresh": 0
   },
   {
    "name": "airbnb",
    "source": "gh",
    "status": "working",
-   "listed": 202,
+   "listed": 201,
    "fresh": 0
   },
   {
@@ -96,7 +96,7 @@
    "name": "razorpaysoftwareprivatelimited",
    "source": "gh",
    "status": "working",
-   "listed": 25,
+   "listed": 23,
    "fresh": 0
   },
   {
@@ -117,8 +117,8 @@
    "name": "commerceiq",
    "source": "gh",
    "status": "working",
-   "listed": 18,
-   "fresh": 2
+   "listed": 14,
+   "fresh": 0
   },
   {
    "name": "devrev",
@@ -194,21 +194,21 @@
    "name": "Adobe",
    "source": "wd",
    "status": "working",
-   "listed": 79,
-   "fresh": 1
+   "listed": 76,
+   "fresh": 0
   },
   {
    "name": "Salesforce",
    "source": "wd",
    "status": "working",
-   "listed": 276,
+   "listed": 270,
    "fresh": 0
   },
   {
    "name": "NVIDIA",
    "source": "wd",
    "status": "working",
-   "listed": 280,
+   "listed": 278,
    "fresh": 0
   },
   {
@@ -216,7 +216,7 @@
    "source": "wd",
    "status": "working",
    "listed": 198,
-   "fresh": 0
+   "fresh": 2
   },
   {
    "name": "Broadcom",
@@ -250,7 +250,7 @@
    "name": "Walmart",
    "source": "wd",
    "status": "working",
-   "listed": 610,
+   "listed": 589,
    "fresh": 0
   },
   {
@@ -271,8 +271,8 @@
    "name": "Philips",
    "source": "wd",
    "status": "working",
-   "listed": 93,
-   "fresh": 2
+   "listed": 91,
+   "fresh": 1
   },
   {
    "name": "Motorolasolutions",
@@ -285,14 +285,14 @@
    "name": "Db",
    "source": "wd",
    "status": "working",
-   "listed": 191,
+   "listed": 195,
    "fresh": 0
   },
   {
    "name": "Mavenir",
    "source": "wd",
    "status": "working",
-   "listed": 19,
+   "listed": 20,
    "fresh": 0
   },
   {
@@ -313,7 +313,7 @@
    "name": "Aptiv",
    "source": "wd",
    "status": "working",
-   "listed": 228,
+   "listed": 230,
    "fresh": 1
   },
   {
@@ -327,7 +327,7 @@
    "name": "Transunion",
    "source": "wd",
    "status": "working",
-   "listed": 36,
+   "listed": 38,
    "fresh": 0
   },
   {
@@ -341,8 +341,8 @@
    "name": "Hitachi",
    "source": "wd",
    "status": "working",
-   "listed": 642,
-   "fresh": 7
+   "listed": 641,
+   "fresh": 6
   },
   {
    "name": "Fico",
@@ -355,7 +355,7 @@
    "name": "Jda",
    "source": "wd",
    "status": "working",
-   "listed": 124,
+   "listed": 126,
    "fresh": 0
   },
   {
@@ -369,7 +369,7 @@
    "name": "Clarivate",
    "source": "wd",
    "status": "working",
-   "listed": 11,
+   "listed": 12,
    "fresh": 0
   },
   {
@@ -390,7 +390,7 @@
    "name": "Pinterest",
    "source": "gh",
    "status": "working",
-   "listed": 167,
+   "listed": 166,
    "fresh": 0
   },
   {
@@ -439,7 +439,7 @@
    "name": "Samsara",
    "source": "gh",
    "status": "working",
-   "listed": 300,
+   "listed": 298,
    "fresh": 0
   },
   {
@@ -474,7 +474,7 @@
    "name": "InMobi",
    "source": "gh",
    "status": "working",
-   "listed": 64,
+   "listed": 63,
    "fresh": 0
   },
   {
@@ -523,14 +523,14 @@
    "name": "Snowflake",
    "source": "ashby",
    "status": "working",
-   "listed": 377,
+   "listed": 379,
    "fresh": 0
   },
   {
    "name": "Zscaler",
    "source": "gh",
    "status": "working",
-   "listed": 388,
+   "listed": 387,
    "fresh": 0
   },
   {
@@ -586,7 +586,7 @@
    "name": "Pure Storage",
    "source": "gh",
    "status": "working",
-   "listed": 396,
+   "listed": 398,
    "fresh": 0
   },
   {
@@ -600,7 +600,7 @@
    "name": "Paytm",
    "source": "lever",
    "status": "working",
-   "listed": 197,
+   "listed": 198,
    "fresh": 0
   },
   {

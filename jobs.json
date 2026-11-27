@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T00:53:40.896920+00:00",
+ "updated": "2026-11-27T09:17:55.331682+00:00",
  "jobs": [
   {
    "company": "rubrik",
@@ -7,24 +7,6 @@
    "location": "Bangalore",
    "url": "https://www.rubrik.com/company/careers/departments/job.8413157?gh_jid=8413157",
    "posted": "2026-11-26T03:53:02-05:00",
-   "fit": "fresher",
-   "why": "Intern"
-  },
-  {
-   "company": "commerceiq",
-   "title": "Data Scientist - Intern",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://job-boards.greenhouse.io/commerceiq/jobs/8215092003",
-   "posted": "2026-11-26T00:46:48-05:00",
-   "fit": "fresher",
-   "why": "Intern"
-  },
-  {
-   "company": "commerceiq",
-   "title": "SDE - Intern ( UI )",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://job-boards.greenhouse.io/commerceiq/jobs/8217481003",
-   "posted": "2026-11-26T00:46:24-05:00",
    "fit": "fresher",
    "why": "Intern"
   },
@@ -38,20 +20,20 @@
    "why": "Engineer I"
   },
   {
-   "company": "Philips",
-   "title": "Systems Product Industrialization Engineer",
-   "location": "Pune",
-   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Systems-Product-Industrialization-Engineer_592509",
-   "posted": "2026-11-24T00:53:40.896920+00:00",
-   "fit": "fresher",
-   "why": "entry-level"
+   "company": "Mastercard",
+   "title": "Software Engineer",
+   "location": "Pune, India",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer_R-289525",
+   "posted": "2026-11-27T09:17:55.331682+00:00",
+   "fit": "maybe",
+   "why": ""
   },
   {
-   "company": "Adobe",
-   "title": "Data Engineer",
-   "location": "2 Locations",
-   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Data-Engineer_R173786-1",
-   "posted": "2026-11-27T00:53:40.896920+00:00",
+   "company": "Mastercard",
+   "title": "Vice President, Data Engineering",
+   "location": "Hyderabad, India",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Hyderabad-India/Vice-President--Data-Engineering_R-292460",
+   "posted": "2026-11-27T09:17:55.331682+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -60,7 +42,7 @@
    "title": "Data Scientist",
    "location": "Bangalore",
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Data-Scientist_592335",
-   "posted": "2026-11-27T00:53:40.896920+00:00",
+   "posted": "2026-11-26T09:17:55.331682+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -69,7 +51,7 @@
    "title": "Cybersecurity Developer",
    "location": "Bangalore, India",
    "url": "https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/Bangalore-India/Cybersecurity-Developer_J000704638",
-   "posted": "2026-11-26T00:53:40.896920+00:00",
+   "posted": "2026-11-25T09:17:55.331682+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -78,7 +60,7 @@
    "title": "Fullstack Engineer-4+ years(JAVA, Angular,Spring, SpringBoot, Restful web services, MySql, Gradle, Maven)",
    "location": "Bangalore, India",
    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Fullstack-Engineer-4--years-JAVA--Angular-Spring--SpringBoot--Restful-web-services--MySql--Gradle--Maven-_R70694",
-   "posted": "2026-11-25T00:53:40.896920+00:00",
+   "posted": "2026-11-24T09:17:55.331682+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -87,7 +69,7 @@
    "title": "Electromechanical Engineer",
    "location": "Chennai, Tamil Nadu, India",
    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Electromechanical-Engineer_R0144227",
-   "posted": "2026-11-25T00:53:40.896920+00:00",
+   "posted": "2026-11-24T09:17:55.331682+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -96,7 +78,7 @@
    "title": "Secondary Engineer",
    "location": "Chennai, Tamil Nadu, India",
    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Secondary-Engineer_R0131799",
-   "posted": "2026-11-25T00:53:40.896920+00:00",
+   "posted": "2026-11-24T09:17:55.331682+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -105,7 +87,7 @@
    "title": "Secondary Engineer",
    "location": "Chennai, Tamil Nadu, India",
    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Secondary-Engineer_R0135685",
-   "posted": "2026-11-25T00:53:40.896920+00:00",
+   "posted": "2026-11-24T09:17:55.331682+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -114,7 +96,7 @@
    "title": "Secondary Engineer",
    "location": "Chennai, Tamil Nadu, India",
    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Secondary-Engineer_R0143405",
-   "posted": "2026-11-25T00:53:40.896920+00:00",
+   "posted": "2026-11-24T09:17:55.331682+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -123,7 +105,7 @@
    "title": "Secondary Engineer",
    "location": "Chennai, Tamil Nadu, India",
    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Secondary-Engineer_R0139122",
-   "posted": "2026-11-25T00:53:40.896920+00:00",
+   "posted": "2026-11-24T09:17:55.331682+00:00",
    "fit": "maybe",
    "why": ""
   },
@@ -132,16 +114,7 @@
    "title": "Control Engineer",
    "location": "Chennai, Tamil Nadu, India",
    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Control-Engineer_R0148681",
-   "posted": "2026-11-25T00:53:40.896920+00:00",
-   "fit": "maybe",
-   "why": ""
-  },
-  {
-   "company": "Hitachi",
-   "title": "Quality Engineer",
-   "location": "Maneja, Gujarat, India",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Maneja-Gujarat-India/Quality-Engineer_R0126815",
-   "posted": "2026-11-24T00:53:40.896920+00:00",
+   "posted": "2026-11-24T09:17:55.331682+00:00",
    "fit": "maybe",
    "why": ""
   }
