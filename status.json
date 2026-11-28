@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T02:23:19.131340+00:00",
+ "updated": "2026-11-28T11:08:42.365315+00:00",
  "companies": [
   {
    "name": "databricks",
@@ -19,7 +19,7 @@
    "name": "cloudflare",
    "source": "gh",
    "status": "working",
-   "listed": 533,
+   "listed": 532,
    "fresh": 0
   },
   {
@@ -201,7 +201,7 @@
    "name": "Salesforce",
    "source": "wd",
    "status": "working",
-   "listed": 268,
+   "listed": 272,
    "fresh": 0
   },
   {
@@ -250,7 +250,7 @@
    "name": "Walmart",
    "source": "wd",
    "status": "working",
-   "listed": 594,
+   "listed": 583,
    "fresh": 0
   },
   {
@@ -271,7 +271,7 @@
    "name": "Philips",
    "source": "wd",
    "status": "working",
-   "listed": 89,
+   "listed": 91,
    "fresh": 1
   },
   {
@@ -279,7 +279,7 @@
    "source": "wd",
    "status": "working",
    "listed": 131,
-   "fresh": 1
+   "fresh": 0
   },
   {
    "name": "Db",
@@ -342,7 +342,7 @@
    "source": "wd",
    "status": "working",
    "listed": 644,
-   "fresh": 9
+   "fresh": 3
   },
   {
    "name": "Fico",
@@ -355,7 +355,7 @@
    "name": "Jda",
    "source": "wd",
    "status": "working",
-   "listed": 134,
+   "listed": 136,
    "fresh": 0
   },
   {
@@ -369,14 +369,14 @@
    "name": "Clarivate",
    "source": "wd",
    "status": "working",
-   "listed": 12,
+   "listed": 11,
    "fresh": 0
   },
   {
    "name": "Datadog",
    "source": "gh",
    "status": "working",
-   "listed": 390,
+   "listed": 392,
    "fresh": 0
   },
   {
@@ -439,7 +439,7 @@
    "name": "Samsara",
    "source": "gh",
    "status": "working",
-   "listed": 294,
+   "listed": 297,
    "fresh": 0
   },
   {
