@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T19:16:34.184606+00:00",
+ "updated": "2026-11-28T02:23:19.131340+00:00",
  "companies": [
   {
    "name": "databricks",
@@ -47,7 +47,7 @@
    "name": "rubrik",
    "source": "gh",
    "status": "working",
-   "listed": 232,
+   "listed": 231,
    "fresh": 1
   },
   {
@@ -61,7 +61,7 @@
    "name": "stripe",
    "source": "gh",
    "status": "working",
-   "listed": 768,
+   "listed": 771,
    "fresh": 0
   },
   {
@@ -383,7 +383,7 @@
    "name": "GitLab",
    "source": "gh",
    "status": "working",
-   "listed": 243,
+   "listed": 244,
    "fresh": 0
   },
   {
@@ -439,14 +439,14 @@
    "name": "Samsara",
    "source": "gh",
    "status": "working",
-   "listed": 295,
+   "listed": 294,
    "fresh": 0
   },
   {
    "name": "Robinhood",
    "source": "gh",
    "status": "working",
-   "listed": 161,
+   "listed": 162,
    "fresh": 0
   },
   {
@@ -460,14 +460,14 @@
    "name": "Gusto",
    "source": "gh",
    "status": "working",
-   "listed": 86,
+   "listed": 85,
    "fresh": 0
   },
   {
    "name": "Vercel",
    "source": "gh",
    "status": "working",
-   "listed": 86,
+   "listed": 85,
    "fresh": 0
   },
   {
@@ -530,7 +530,7 @@
    "name": "Zscaler",
    "source": "gh",
    "status": "working",
-   "listed": 386,
+   "listed": 385,
    "fresh": 0
   },
   {
@@ -628,7 +628,7 @@
    "name": "Cohere",
    "source": "ashby",
    "status": "working",
-   "listed": 122,
+   "listed": 121,
    "fresh": 0
   },
   {
